@@ -1,444 +1,485 @@
-FoodName,DiningHall,Mealtime,Vegan,Vegetarian,Halal
-Cheese Scrambled Eggs,Commons,Breakfast,0,0,1
-French Toast,Commons,Breakfast,0,0,0
-Applewood Smoked Bacon,Commons,Breakfast,0,0,0
-Chicken Sausage Patty,Commons,Breakfast,0,0,0
-Potatoes O'Brien,Commons,Breakfast,1,1,1
-Sweet Potato Tater Tots,Commons,Breakfast,1,1,1
-Oatmeal,Commons,Breakfast,0,0,0
-Denver Scramble,Commons,Breakfast,0,0,0
-Ham Steaks,Commons,Breakfast,0,0,0
-Apple Monkey Bread,Commons,Breakfast,0,0,0
-Garlic Rosemary Potatoes,Commons,Breakfast,1,1,1
-Turkey Sausage links,Commons,Breakfast,0,0,0
-Mini Masher Potato Puffs,Commons,Breakfast,0,0,0
-Florentine Scramble,Commons,Breakfast,0,0,0
-Roasted Sweet Potatoes,Commons,Breakfast,0,0,0
-Chicken Sausage Links,Commons,Breakfast,0,0,0
-Smoked Sausage Links,Commons,Breakfast,0,0,0
-Buttermilk Pancakes,Commons,Breakfast,0,0,0
-Hashbrown Patties,Commons,Breakfast,0,0,0
-Meat Lovers Scramble,Commons,Breakfast,0,0,0
-Turkey Bacon,Commons,Breakfast,0,0,0
-Maple Sausage Links,Commons,Breakfast,0,0,0
-Strudel Bites,Commons,Breakfast,0,0,0
-Seasoned Potato Wedges,Commons,Breakfast,0,0,0
-Churro,Commons,Breakfast,0,0,0
-Corned Beef Scramble,Commons,Breakfast,0,0,0
-Potato Triangles,Commons,Breakfast,1,1,1
-Pigs in a Blanket,Commons,Breakfast,0,0,0
-Cinnamon Poppers,Commons,Breakfast,0,0,0
-Zero Egg,Commons,Breakfast,0,0,0
-Roasted Red Potatoes,Commons,Breakfast,1,1,1
-Honey Chili Glazed Chicken,Commons,Lunch,0,0,1
-Keema Beef Curry,Commons,Lunch,0,0,1
-Rice Noodles,Commons,Lunch,0,0,1
-Green Curried Tofu,Commons,Lunch,1,1,1
-Spiced Basmati,Commons,Lunch,1,1,1
-Sesame Snap Peas,Commons,Lunch,1,1,1
-"Cauliflower, Carrots, Tomatoes, Broccoli, and Kale",Commons,Lunch,1,1,1
-Indian Naan,Commons,Lunch,0,1,0
-Pickled Vegetables,Commons,Lunch,0,0,0
-Wonton Srip,Commons,Lunch,0,1,1
-Eel Sauce,Commons,Lunch,0,0,0
-Siracha Mayo,Commons,Lunch,0,0,0
-Teriyaki Pork Loin,Commons,Lunch,0,0,0
-Yakisoba with Snap Peas,Commons,Lunch,1,1,0
-PB Gouchujang Chicken,Commons,Lunch,1,1,0
-White Rice,Commons,Lunch,1,1,0
-Sigeumchi Namul,Commons,Lunch,1,1,1
-Midori Vegetable Blend,Commons,Lunch,0,0,0
-Korean Chicken Skewers,Commons,Lunch,0,0,1
-Vegetable Spring Rolls,Commons,Lunch,1,1,0
-Sesame Garlic Chicken,Commons,Lunch,0,0,0
-Beef Bulgogi,Commons,Lunch,0,0,1
-Five Spice Classic Plant Based Cutlet,Commons,Lunch,1,1,1
-Kimchi Fried Rice,Commons,Lunch,0,0,0
-Roasted Carrots,Commons,Lunch,1,1,1
-Far East Vegetables,Commons,Lunch,1,1,1
-Pork Egg Rolls,Commons,Lunch,0,0,0
-Indian Saffron Chicken,Commons,Lunch,0,0,0
-Thai BBQ Salmon,Commons,Lunch,0,0,0
-Chana Masala,Commons,Lunch,1,1,1
-Basmati rice,Commons,Lunch,1,1,1
-Coconut Rice,Commons,Lunch,1,1,1
-Cumin Roasted Carrots,Commons,Lunch,1,1,1
-Kyoto Vegetable Blend,Commons,Lunch,1,1,0
-Thai Vegetable Spring Rolls,Commons,Lunch,1,1,0
-Garlic Ginger Chicken Wings,Commons,Lunch,0,0,0
-Red Curry Shrimp,Commons,Lunch,0,0,0
-Honey Garlic Plant Based Meatballs,Commons,Lunch,1,1,1
-Jasmine Rice,Commons,Lunch,1,1,1
-Fried Rice,Commons,Lunch,0,0,1
-Sesame Mushrooms and Broccoli,Commons,Lunch,1,1,1
-California Vegetable Blend,Commons,Lunch,0,0,0
-Crab Rangoons,Commons,Lunch,0,0,1
-Greek Chicken,Commons,Lunch,0,0,0
-Beef and Lamb Gyro,Commons,Lunch,0,0,0
-French Fries,Commons,Lunch,1,1,1
-Roasted Fresh Vegetables,Commons,Lunch,1,1,1
-Pita Bread,Commons,Lunch,0,0,0
-Tzatziki Sauce,Commons,Lunch,0,1,1
-Spanakpita,Commons,Lunch,0,0,0
-Falafel,Commons,Lunch,1,1,1
-Mojo Pork,Commons,Lunch,0,0,0
-Ropa Vieja,Commons,Lunch,0,0,0
-Vegan Cuban picadillo,Commons,Lunch,1,1,0
-Cilantro Lime Rice,Commons,Lunch,1,1,1
-Siracha Lime Roasted Cauliflower,Commons,Lunch,0,1,1
-Sauteed Peppers and Onions,Commons,Lunch,1,1,1
-Flour Tortillas,Commons,Lunch,1,1,1
-Taqueria Black Beans,Commons,Lunch,1,1,1
-Avocado Cream Sauce,Commons,Lunch,0,0,0
-Taqueria Salsa Roja,Commons,Lunch,1,1,0
-Meat Lasagna,Commons,Lunch,0,0,0
-Chicken Picatta,Commons,Lunch,0,0,0
-Plant Based Meatballs and Spaghetti,Commons,Lunch,1,1,1
-Rice Pilaf,Commons,Lunch,0,0,0
-Steamed Broccoli,Commons,Lunch,1,1,1
-Steamed Green Beans,Commons,Lunch,1,1,1
-Focaccia,Commons,Lunch,0,0,0
-Parmesan Cheese,Commons,Lunch,0,1,0
-Italian Beef,Commons,Lunch,0,0,0
-OLemon Oregano Chicken,Commons,Lunch,0,0,0
-Eggplant Parmesan,Commons,Lunch,0,0,0
-Onion Rings,Commons,Lunch,0,0,1
-Garlic Mushrooms,Commons,Lunch,1,1,1
-Three Cheese Sauce,Commons,Lunch,0,0,0
-Chicken Parmesan,Commons,Lunch,0,0,0
-Shrimp Scampi,Commons,Lunch,0,0,0
-Pesto Gnocchi,Commons,Lunch,0,0,0
-Bean and Roasted Vegetable Ratatouille,Commons,Lunch,1,1,1
-Roasted Squash,Commons,Lunch,0,0,0
-Garlic Bread,Commons,Lunch,0,0,0
-Spaghetti with Marinara Sauce,Commons,Lunch,1,1,1
-Garlic Shrimp Pasta Bake,Commons,Lunch,0,0,0
-Penne,Commons,Lunch,1,1,1
-Alfredo Sauce,Commons,Lunch,0,0,0
-Cheese Pizza,Commons,Lunch,0,1,0
-Pepperoni Pizza,Commons,Lunch,0,0,0
-Goat Cheese Pizza,Commons,Lunch,0,0,0
-Breadsticks,Commons,Lunch,0,1,0
-Cajun Chicken Pasta,Commons,Lunch,0,0,0
-Taco Pizza,Commons,Lunch,0,0,0
-Pesto Cream Sauce,Commons,Lunch,0,0,0
-Sausage Mostaccioli,Commons,Lunch,0,0,0
-BBQ Chicken Pizza,Commons,Lunch,0,0,0
-Blush Sauce,Commons,Lunch,0,0,0
-Butternut Ravioli with Sherry Dijon Sauce,Commons,Lunch,0,1,0
-Beef Bolognese,Commons,Lunch,0,0,0
-Breakfast Pizza,Commons,Lunch,0,0,0
-Baked Lemon Butter Salmon Pasta,Commons,Lunch,0,0,0
-Margherita Pizza,Commons,Lunch,0,1,0
-Arrabbiata Sauce,Commons,Lunch,1,1,1
-Fried Eggs,Commons,Lunch,0,0,0
-Sausage Patties,Commons,Lunch,0,0,0
-Bacon,Commons,Lunch,0,0,0
-Everything Bagel,Commons,Lunch,0,0,1
-Italian Beef,Commons,Lunch,0,0,0
-Three Cheese Grilled Cheese,Commons,Lunch,0,1,1
-Grilled Cheese with Bacon,Commons,Lunch,0,0,0
-Grilled Hamburger Patties,Commons,Lunch,0,0,0
-Roasted Poblano and Black Bean Burger,Commons,Lunch,1,1,1
-Cheese Quesadilla ,Commons,Lunch,0,0,0
-Black Bean and Corn Quesadilla,Commons,Lunch,0,1,1
-Taqueria Salsa Roja,Commons,Lunch,1,1,0
-Taqueria Tortilla Chips,Commons,Lunch,1,1,0
-Honey Orange Grilled Chicken,Commons,Lunch,0,0,0
-Smashed Redskin Potatoes,Commons,Lunch,1,1,1
-Roasted Carrots,Commons,Lunch,1,1,1
-Fresh Fruit Salad,Commons,Lunch,1,1,1
-Three Bean Salad,Commons,Lunch,1,1,0
-Hard Shell Beef Tacos,Commons,Lunch,0,0,0
-Spicy Pinto Beans,Commons,Lunch,1,1,1
-Ejotes a la Mexicana,Commons,Lunch,1,1,1
-Jicama Slaw,Commons,Lunch,1,1,1
-Honey Dijon Chicken Thighs,Commons,Lunch,0,0,1
-Herbed Quinoa,Commons,Lunch,0,0,0
-"Zucchini, Squash, Peppers, Carrots",Commons,Lunch,1,1,1
-Germon Potato Salad,Commons,Lunch,1,1,0
-Garlic Sauteed Snap Peas,Commons,Lunch,1,1,1
-Lentil Pasta Salad,Commons,Lunch,0,0,0
-Meatballs and Marinara,Commons,Lunch,0,0,0
-Cauliflower Rice,Commons,Lunch,1,1,1
-Roasted Zucchini and Red Onion,Commons,Lunch,1,1,1
-Brussel Sprout Slaw,Commons,Lunch,1,1,1
-Tiramisu Parfait,Commons,Lunch,0,0,0
-Smores Parfait,Commons,Lunch,0,0,0
-Lemon Parfait,Commons,Lunch,0,0,0
-Snickerdoodle Parfait,Commons,Lunch,0,0,0
-PB & J Parfait,Commons,Lunch,0,0,0
-Thai Chicken Soup,Commons,Lunch,0,0,0
-Tomato Basil Soup,Commons,Lunch,0,0,0
-Loaded Potato Soup,Commons,Lunch,0,0,0
-Grasshopper Brownies,Commons,Lunch,0,0,0
-Monkey Bread,Commons,Lunch,0,1,0
-Red Velvet Whoopie Pie,Commons,Lunch,0,0,0
-Spapillas,Commons,Lunch,0,1,0
-Cannoli with Ricotta and Chocolate Chips,Commons,Lunch,0,0,0
-Chocolate Chip Blondie,Commons,Lunch,0,0,0
-Trix Cereal Bars,Commons,Lunch,0,0,0
-Lemon Bars,Commons,Lunch,0,0,1
-Cinnamon and Sugar Churros,Commons,Lunch,0,0,0
-Red Velvet Cupcake,Commons,Lunch,0,0,0
-Scrambled Eggs,Knollcrest,Breakfast,0,0,1
-Southern Scramble,Knollcrest,Breakfast,0,0,0
-Western Hashbrown Skillet,Knollcrest,Breakfast,0,0,0
-Smoked Sausage,Knollcrest,Breakfast,0,0,0
-Apple Strudel Bites,Knollcrest,Breakfast,0,0,0
-Chicken Sausage Links,Knollcrest,Breakfast,0,0,0
-Shrimp and Grits,Knollcrest,Breakfast,0,0,0
-Plant Based Breakfast Sausage Links,Knollcrest,Breakfast,1,1,1
-Oatmeal,Knollcrest,Breakfast,1,1,1
-Garlic Rosemary Potatoes,Knollcrest,Breakfast,1,1,1
-Ham Steaks,Knollcrest,Breakfast,0,0,0
-"Spinach, Bason, Feta Scramble",Knollcrest,Breakfast,0,0,0
-Strawberry French Toast Bake,Knollcrest,Breakfast,0,0,0
-Lemon Berry Oatmeal,Knollcrest,Breakfast,0,0,0
-Hashbrowns,Knollcrest,Breakfast,0,1,1
-Chicken Sausage Patties,Knollcrest,Breakfast,0,0,0
-Three Cheese Grilled Cheese,Knollcrest,Lunch,0,1,1
-Tomato Bisque,Knollcrest,Lunch,0,1,1
-Plant Based Grilled Cheese,Knollcrest,Lunch,1,1,1
-Grilled Turkey and Cheese,Knollcrest,Lunch,0,0,0
-French Fries,Knollcrest,Lunch,1,1,1
-Roasted Asparagus,Knollcrest,Lunch,1,1,1
-Country Fried Steak,Knollcrest,Lunch,0,0,0
-Vegan Stuffed Peppers,Knollcrest,Lunch,1,1,1
-Red Skin Mashed Potatoes,Knollcrest,Lunch,0,1,1
-Buttered Corn,Knollcrest,Lunch,0,1,1
-Parmesan Roasted Cauliflower,Knollcrest,Lunch,0,1,0
-Pot Roast,Knollcrest,Lunch,0,0,0
-Beef Tips with Mushroom Gravy,Knollcrest,Lunch,0,0,0
-Sweet Peas,Knollcrest,Lunch,1,1,1
-Garlic Butter Sweet Rolls,Knollcrest,Lunch,0,1,0
-Fresh Fruit Salad,Knollcrest,Lunch,1,1,1
-Ranch Pasta Salad,Knollcrest,Lunch,0,0,0
-Zesty Quinoa Salad,Knollcrest,Lunch,1,1,1
-Grilled Corn Salad with Avocado,Knollcrest,Lunch,1,1,1
-Three Bean Salad,Knollcrest,Lunch,1,1,0
-Roasted Vegetable Couscous Salad,Knollcrest,Lunch,1,1,1
-Warm Wild Rice and Roasted Root Vegetable Salad,Knollcrest,Lunch,0,0,0
-Jalapeño Pepper Macaroni Salad,Knollcrest,Lunch,0,0,0
-Cucumber Tomato Salad,Knollcrest,Lunch,1,1,1
-Lemon Dijon Potato Salad,Knollcrest,Lunch,1,1,1
-Mediterranean Couscous Salad,Knollcrest,Lunch,0,0,0
-Sangria Fruit Salad,Knollcrest,Lunch,1,1,1
-Broccoli Salad,Knollcrest,Lunch,0,0,0
-Chicken Caesar Salad,Knollcrest,Lunch,0,0,0
-Tropical Spinach Salad,Knollcrest,Lunch,1,1,0
-Carbanara Salad,Knollcrest,Lunch,1,1,0
-Vegan Niçoise Salad,Knollcrest,Lunch,1,1,1
-Strawberry Chicken Salad,Knollcrest,Lunch,0,0,0
-Bistro Pasta Salad,Knollcrest,Lunch,0,0,0
-Cucumber Onion Quinoa Salad,Knollcrest,Lunch,1,0,1
-Curry Chicken Salad,Knollcrest,Lunch,0,0,1
-Taqueria Pulled Chicken,Knollcrest,Lunch,0,0,0
-Taqueria Beef,Knollcrest,Lunch,0,0,0
-Cilantro Lime Rice,Knollcrest,Lunch,1,1,1
-Brown Rice,Knollcrest,Lunch,1,1,1
-Taqueria Black Beans,Knollcrest,Lunch,1,1,1
-Refried Beans,Knollcrest,Lunch,1,1,1
-Taqueria Peppers and Onions,Knollcrest,Lunch,1,1,1
-Taqueria Queso,Knollcrest,Lunch,0,1,0
-Taqueria Tortilla Chips,Knollcrest,Lunch,1,1,0
-Shawarma Spiced Chicken,Knollcrest,Lunch,0,0,0
-Tandoori Spiced Chickpeas,Knollcrest,Lunch,1,1,0
-Harissa Eggplant,Knollcrest,Lunch,0,0,0
-Chicken Pad Thai,Knollcrest,Lunch,0,0,0
-Marinated Thai Tofu,Knollcrest,Lunch,1,1,0
-Vegetable Spring Rolls,Knollcrest,Lunch,1,1,0
-Cheese Pizza,Knollcrest,Lunch,0,1,0
-Pepperoni Pizza,Knollcrest,Lunch,0,0,0
-Cheese Bread,Knollcrest,Lunch,0,0,0
-BBQ Chicken Pizza,Knollcrest,Lunch,0,0,0
-Breadsticks,Knollcrest,Lunch,0,1,0
-Marinara Sauce,Knollcrest,Lunch,1,1,1
-Rotini Pasta,Knollcrest,Lunch,1,1,1
-Chipotle Romesco,Knollcrest,Lunch,1,1,0
-Pesto Chicken Pizza,Knollcrest,Lunch,0,0,0
-Assorted Cookies,Knollcrest,Lunch,0,1,0
-Brown Sugar Baked Chicken Breast,Knollcrest,Lunch,0,0,0
-Fresh Fruit Salad,Knollcrest,Lunch,1,1,1
-Spicey Green Beans,Knollcrest,Lunch,1,1,1
-Home Fries,Knollcrest,Lunch,1,1,1
-English Ham and Pea Salad,Knollcrest,Lunch,0,0,0
-Dijon Maple Pork Tenderloin,Knollcrest,Lunch,0,0,0
-Vegetable Quinoa Pilaf,Knollcrest,Lunch,1,1,1
-Grilled Asparagus,Knollcrest,Lunch,1,1,1
-Fresh Tomato and Arugula Salad,Knollcrest,Lunch,1,1,1
-Barbeque Ribs,Knollcrest,Dinner,0,0,0
-Lentil Sloppy Joes,Knollcrest,Dinner,1,1,1
-Garlic Roasted Brussels Sprouts,Knollcrest,Dinner,1,1,1
-Vegetarian Baked Beans,Knollcrest,Dinner,1,1,1
-Potato Wedge Fries,Knollcrest,Dinner,0,0,0
-Hamburger Buns,Knollcrest,Dinner,1,1,1
-Southwestern Pork Loin,Knollcrest,Dinner,0,0,0
-Cheesy Southwest Chicken,Knollcrest,Dinner,0,0,0
-Vegan Southwest Stuffed Peppers,Knollcrest,Dinner,1,1,1
-Mexican Rice,Knollcrest,Dinner,1,1,1
-Grilled Tajin Zucchini Batons,Knollcrest,Dinner,1,1,1
-Garlic Roasted Cauliflower,Knollcrest,Dinner,1,1,1
-Plant Based Chicken Bites,Knollcrest,Dinner,1,1,1
-Brussel Sprouts with Red Peppers,Knollcrest,Dinner,1,1,1
-Fried Zucchini Sticks,Knollcrest,Dinner,0,0,0
-Monterey Chicken,Knollcrest,Dinner,0,0,0
-Roasted Corn & Black Bean Stuffed Tomatoes,Knollcrest,Dinner,1,1,1
-Ancho Chili Potatoes,Knollcrest,Dinner,1,1,1
-Fajita Vegetables,Knollcrest,Dinner,0,0,0
-Steamed Green Beans,Knollcrest,Dinner,1,1,1
-Lemon Pepper Tilapia,Knollcrest,Dinner,0,0,1
-Hot Honey Chicken,Knollcrest,Dinner,0,0,0
-Carribean Plant based Chicken with a Mango Salsa,Knollcrest,Dinner,1,1,1
-Chipotle Garlic Roasted Potatoes,Knollcrest,Dinner,1,1,1
-Sriracha Lime Roasted Cauliflower,Knollcrest,Dinner,0,1,1
-Ancho Chili Carrots,Knollcrest,Dinner,1,1,1
-Orange Chicken Stir-Fry,Knollcrest,Dinner,0,0,0
-Yakisoba with Snap Peas,Knollcrest,Dinner,1,1,0
-Vegan Mapo Tofu,Knollcrest,Dinner,1,1,1
-Lemon Garlic Carrots,Knollcrest,Dinner,1,1,1
-Vegetable Egg Rolls,Knollcrest,Dinner,0,0,1
-Kung Pao Brussels,Knollcrest,Dinner,0,0,0
-Lentil Loaf,Knollcrest,Dinner,1,1,1
-Roast Beef with Au Ju,Knollcrest,Dinner,0,0,0
-Red Skin Masked Potatoes,Knollcrest,Dinner,0,1,1
-Sauteed Fresh Vegetables,Knollcrest,Dinner,1,1,1
-"Roasted Cauliflower, Broccoli, Carrots, Tomatoes",Knollcrest,Dinner,1,1,1
-Beef Gravy,Knollcrest,Dinner,0,0,0
-Jollof Rice,Knollcrest,Dinner,0,0,0
-Grilled Curry Spiced Carrots,Knollcrest,Dinner,0,0,0
-White Rice,Knollcrest,Dinner,1,1,1
-Crab Rangoons,Knollcrest,Dinner,0,0,1
-Spiced Basmati,Knollcrest,Dinner,1,1,1
-Indian Naan,Knollcrest,Dinner,0,1,0
-Sesame Ginger Roasted Tofu,Knollcrest,Dinner,1,1,1
-Spicy Ginger Beef Broth,Knollcrest,Dinner,0,0,0
-Shaved Beef,Knollcrest,Dinner,0,0,0
-Ramen Noodles,Knollcrest,Dinner,1,1,0
-Far East Vegetables,Knollcrest,Dinner,1,1,1
-Vegetable Broth,Knollcrest,Dinner,1,1,1
-Swedish Meatballs,Knollcrest,Dinner,0,0,0
-Egg Noodles,Knollcrest,Dinner,0,0,1
-Everything Seasoned Asparagus,Knollcrest,Dinner,1,1,1
-Cardamom Roasted Sweet Potatoes,Knollcrest,Dinner,0,0,0
-Moroccan Braised Chicken,Knollcrest,Dinner,0,0,0
-Roasted Red Potatoes,Knollcrest,Dinner,1,1,1
-Seasoned Black Beans,Knollcrest,Dinner,1,1,1
-Jicama Slaw,Knollcrest,Dinner,1,1,1
-Roasted Turkey,Knollcrest,Dinner,0,0,0
-Zucchini and Squash Batons,Knollcrest,Dinner,1,1,1
-German Potato Salad,Knollcrest,Dinner,1,1,0
-Plant Based Buttered Corn,Knollcrest,Dinner,1,1,1
-Lentil Pasta Salad,Knollcrest,Dinner,0,0,0
-Herb Roasted Chicken,Knollcrest,Dinner,0,0,0
-Brussel Sprout Slaw,Knollcrest,Dinner,1,1,1
-Roasted Fingerling Potatoes,Knollcrest,Dinner,1,1,1
-Island Shredded Pork,Knollcrest,Dinner,0,0,0
-Carribean Rice,Knollcrest,Dinner,1,1,1
-Roasted Corn and Black Beans,Knollcrest,Dinner,1,1,1
-Carribean Vegetable Blend,Knollcrest,Dinner,1,1,1
-Beet Salad with a Mustard Vinaigrette,Knollcrest,Dinner,1,1,1
-Zone Tandoori Chicken,Knollcrest,Dinner,0,0,1
-Lemon Carrot Salad,Knollcrest,Dinner,1,1,1
-Roasted Brussel Sprouts,Knollcrest,Dinner,1,1,1
-Three Little Pigs Pizza,Knollcrest,Dinner,0,0,0
-Hawaiian Pizza,Knollcrest,Dinner,0,0,0
-Sausage Banana Pepper Pizza,Knollcrest,Dinner,0,0,0
-Pesto Alfredo,Knollcrest,Dinner,0,1,0
-Beef Bolognese,Knollcrest,Dinner,0,0,0
-Margherita Pizza,Knollcrest,Dinner,0,1,0
-Taqueria Pinto Beans,Knollcrest,Dinner,1,1,1
-Santa Fe Corn,Knollcrest,Dinner,1,1,1
-Taqueria Salsa Verde,Knollcrest,Dinner,1,1,1
-Taqueria Guacamole,Knollcrest,Dinner,1,1,1
-Taqueria Salsa Roja,Knollcrest,Dinner,1,1,0
-Taqueria Black Bean Corn Salsa,Knollcrest,Dinner,1,1,0
-Pico De Gallo,Knollcrest,Dinner,1,1,1
-Grasshopper Brownies,Knollcrest,Dinner,0,0,0
-Tiramisu Parfait,Knollcrest,Dinner,0,0,0
-Red Velvet Whoopie with Cream Cheese Frosting,Knollcrest,Dinner,0,0,0
-Banana Creme de la Creme Pie,Knollcrest,Dinner,0,0,0
-Cannoli,Knollcrest,Dinner,0,0,0
-Berries and Cream Angel Food Cake,Knollcrest,Dinner,0,0,0
-Trix Cereal Bars,Knollcrest,Dinner,0,0,0
-Cookies and Cream Creme de la Creme Pie,Knollcrest,Dinner,0,0,0
-Tres Leches Cake,Knollcrest,Dinner,0,0,0
-Vegetarian Chili,Knollcrest,Dinner,0,0,0
-Cheesy Broccoli Soup,Knollcrest,Dinner,0,0,0
-Chicken and Dumpling Soup,Knollcrest,Dinner,0,0,0
-California Medley Soup,Knollcrest,Dinner,0,0,0
-Herb Tomato Bisque,Knollcrest,Dinner,0,0,0
-Chicken Noodle Soup,Knollcrest,Dinner,0,0,0
-Smokey Poblano & Cheese Soup,Knollcrest,Dinner,0,0,0
-Chicken Tortilla Soup,Knollcrest,Dinner,0,0,0
-Corn Chowder,Knollcrest,Dinner,0,0,0
-Cactus and Bean Chili,Knollcrest,Dinner,0,0,0
-Stuffed Pepper Soup,Knollcrest,Dinner,0,0,0
-French Onion Soup,Knollcrest,Dinner,0,0,0
-Potato Chophouse Soup,Knollcrest,Dinner,0,0,0
-Garden Vegetable Soup,Knollcrest,Dinner,0,0,0
-Drip Coffee,Peets,,1,1,1
-Espresso,Peets,,1,1,1
-Americano,Peets,,1,1,1
-Cappuccino,Peets,,0,1,0
-Latte,Peets,,0,1,0
-Vanilla Latte,Peets,,0,1,0
-Caramel Macchiato,Peets,,0,1,0
-Mocha,Peets,,0,1,0
-White Chotolate Mocha,Peets,,0,1,0
-Brewed Tea,Peets,,1,1,1
-Matcha Latte,Peets,,0,1,0
-Chai Latte,Peets,,0,1,0
-Hot Cocoa,Peets,,0,1,0
-Cold Brew,Peets,,1,1,1
-Nitro Cold Brew,Peets,,1,1,1
-Cold Brew Oat Latte,Peets,,0,1,0
-Horchata Cold Brew Oat Latte,Peets,,0,1,0
-Black Tie,Peets,,0,1,0
-Iced Latte,Peets,,0,1,0
-Iced Vanilla Latte,Peets,,0,1,0
-Iced Mocha,Peets,,0,1,0
-Mocha Frappé,Peets,,0,1,0
-Caramel Frappé,Peets,,0,1,0
-Iced Tea,Peets,,1,1,1
-Iced Tea Lemonade,Peets,,0,1,0
-Strawberry Lemon Tea Shaker,Peets,,0,1,0
-Iced Chai Latte,Peets,,0,1,0
-Iced Matcha Latte,Peets,,0,1,0
-Matcha Frappé,Peets,,0,1,0
-Almond Milk,Peets,,1,1,0
-Oat Milk,Peets,,1,1,0
-Ripple Barista Milk,Peets,,0,1,0
-Chicory Syrup,Peets,,0,1,0
-Coconut Syrup,Peets,,0,1,0
-Hazelnut Syrup,Peets,,0,1,0
-Honey,Peets,,0,1,0
-Vanilla Syrup,Peets,,0,1,0
-Caramel Sauce,Peets,,0,1,0
-Chocolate Sauce,Peets,,0,1,0
-White Chotolate Sauce,Peets,,0,1,0
-Whipped Cream,Peets,,0,1,0
-Cheese and Herb Bagel,Peets,,0,1,0
-Everything Bagel,Peets,,1,1,0
-French Toast Bagel,Peets,,0,1,0
-Plain Bagel,Peets,,1,1,0
-Bacon,Peets,,0,0,0
-Ham,Peets,,0,0,0
-Turkey,Peets,,0,0,0
-Cheddar Cheese,Peets,,0,1,0
-Pepper Jack,Peets,,0,1,0
-Provolone,Peets,,0,1,0
-Swiss,Peets,,0,1,0
-Sparkling Lemonade,Peets,,1,1,0
-Sparkling Grapefruit Cold Brew,Peets,,0,1,0
-Sparkling Passion Fruit Black Tea,Peets,,0,1,0
-Classic Burger,Johnny's,Lunch,0,0,0
-Rodeo Burger,Johnny's,Lunch,0,0,0
-Breakfast Burger,Johnny's,Lunch,0,0,0
-Hail Mary Burger,Johnny's,Lunch,0,0,0
-Cheese Quesadilla,Johnny's,Lunch,0,0,0
-Veggie Quesadilla,Johnny's,Lunch,0,1,0
-Chicken Bacon Ranch Quesadilla,Johnny's,Lunch,0,0,0
-Veggie Wrap,Johnny's,Lunch,0,0,0
-Chicken Tender Wrap,Johnny's,Lunch,0,0,0
-Cheese Burger Wrap,Johnny's,Lunch,0,0,0
+FoodName,DiningHall,Breakfast,Lunch,Dinner,Mealtime,Vegan,Vegetarian,Halal,Image,Description
+Cheese Scrambled Eggs,Commons,1,0,0,Breakfast,0,0,1,https://www.allrecipes.com/thmb/0VXMwCY9RVNrNvWcF_9v0iZpNqA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/JF_241160_CreamyCottageCheeseScrambled_4x3_12902-619d00dc88594ea9b8ed884a108db16d.jpg,"Fluffy scrambled eggs cooked with cheese, providing a savory and satisfying start to the day."
+French Toast,Commons,1,0,0,Breakfast,0,0,0,https://sugarspunrun.com/wp-content/uploads/2023/08/French-Toast-recipe-1-of-1-500x375.jpg,"Classic French toast made with thick bread, topped with syrup for a sweet morning treat."
+Applewood Smoked Bacon,Commons,1,0,0,Breakfast,0,0,0,https://cdn-hrdirectnew.pressidium.com/wp-content/uploads/Applewood-Smoked-Bacon-667x500.jpg,"Smoky and crispy bacon strips, perfect for adding flavor to any breakfast dish."
+Chicken Sausage Patty,Commons,1,0,0,Breakfast,0,0,0,https://emilybites.com/wp-content/uploads/2024/09/Apple-Chicken-Sausage-Patties-2b.jpg,"Savory chicken sausage patty, offering a flavorful protein option to start the day."
+Potatoes O'Brien,Commons,1,0,0,Breakfast,1,1,1,https://www.kyleecooks.com/wp-content/uploads/2023/11/Breakfast-Potatoes-19.jpg,"Crispy potatoes mixed with bell peppers and onions, providing a hearty breakfast side."
+Sweet Potato Tater Tots,Commons,1,0,0,Breakfast,1,1,1,https://jessicainthekitchen.com/wp-content/uploads/2021/10/sweet-potato-tater-tots00916.jpg,"Sweet potato tater tots, crispy on the outside and soft on the inside, perfect for a sweet touch."
+Oatmeal,Commons,1,0,0,Breakfast,0,0,0,https://www.allrecipes.com/thmb/2-QBwvkkuKObAQDVL4B1R8ReFSU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/265505-maple-and-brown-sugar-oatmeal-DDMFS-beauty_3x4-3228-ac98030b91b84fca9e80c524332e5d01.jpg,"Warm oatmeal topped with your choice of sweet toppings, offering a comforting and nutritious breakfast."
+Denver Scramble,Commons,1,0,0,Breakfast,0,0,0,https://www.thechunkychef.com/wp-content/uploads/2018/04/Denver-Omelet-Scrambled-Eggs-Skillet-feat.jpg,"Flavorful scramble with eggs, bell peppers, onions, and cheese, providing a hearty breakfast option."
+Ham Steaks,Commons,1,0,0,Breakfast,0,0,0,https://www.budgetbytes.com/wp-content/uploads/2021/12/Glazed-Ham-Steaks-close.jpg,"Juicy ham steaks, grilled to perfection, offering a savory protein option for breakfast."
+Apple Monkey Bread,Commons,1,0,0,Breakfast,0,0,0,https://goboldwithbutter.com/BoldWithButter/media/recipe_images/Imported/caramel-apple-monkey-bread.jpg?ext=.jpg,"Soft and sweet apple monkey bread, perfect for sharing or enjoying on your own."
+Garlic Rosemary Potatoes,Commons,1,0,0,Breakfast,1,1,1,https://plantedinthekitchen.com/wp-content/uploads/2022/11/Rosemary-Garlic-Potatoes-5.jpg,"Garlic and rosemary seasoned roasted potatoes, providing a flavorful side dish to any meal."
+Turkey Sausage links,Commons,1,0,0,Breakfast,0,0,0,https://www.thequickjourney.com/wp-content/uploads/2023/06/sausage-links-square.jpg,"Flavorful turkey sausage links, offering a savory, lean protein option for breakfast."
+Mini Masher Potato Puffs,Commons,1,0,0,Breakfast,0,0,0,https://cdn.apartmenttherapy.info/image/upload/v1558477417/k/archive/31e4e5f03145b62e0bb4a7543f33bcc7c8329c6c.jpg,"Mini potato puffs, crispy on the outside and fluffy inside, perfect for a light snack."
+Florentine Scramble,Commons,1,0,0,Breakfast,0,0,0,https://3.bp.blogspot.com/-YSq5ZmNCGiw/VMWHOuV6y5I/AAAAAAAAE-E/HAc2EmwUS9Y/s1600/IMG_2681.JPG,"Scrambled eggs with spinach, cheese, and herbs, providing a nutritious and savory breakfast option."
+Roasted Sweet Potatoes,Commons,1,0,0,Breakfast,0,0,0,https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2023/09/Roasted-Sweet-Potatoes-main-1.jpg,"Sweet roasted sweet potatoes, caramelized to perfection for a delightful side dish."
+Chicken Sausage Links,Commons,1,0,0,Breakfast,0,0,0,https://s3.amazonaws.com/grazecart/elmrunfarms/images/1586377765_5e8e3425a0906.jpg,"Flavorful chicken sausage links, offering a hearty protein option for breakfast."
+Smoked Sausage Links,Commons,1,0,0,Breakfast,0,0,0,https://blog.thermoworks.com/wp-content/uploads/2023/08/MHot-Link-Sausage_b_IMG_0891-scaled.jpg,"Savory smoked sausage links, perfect for adding flavor and protein to breakfast plates."
+Buttermilk Pancakes,Commons,1,0,0,Breakfast,0,0,0,https://www.olgasflavorfactory.com/wp-content/uploads/2021/06/Buttermilk-Pancakes-copy.jpg,"Fluffy buttermilk pancakes served warm, ideal for a sweet breakfast treat."
+Hashbrown Patties,Commons,1,0,0,Breakfast,0,0,0,https://www.loveandotherspices.com/wp-content/uploads/2022/05/air-fryer-frozen-hash-brown-patties-crispy.jpg,"Crispy hashbrown patties, golden brown and delicious, perfect as a breakfast side."
+Meat Lovers Scramble,Commons,1,0,0,Breakfast,0,0,0,https://olo-images-live.imgix.net/2b/2b4272e1cc6142f9b464de14306f41eb.jpg?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=32bcbb82e9544c981dd19b590ec64ed3,"Hearty scramble loaded with various meats and cheeses, perfect for breakfast lovers."
+Turkey Bacon,Commons,1,0,0,Breakfast,0,0,0,https://foolproofliving.com/wp-content/uploads/2022/02/How-to-cook-turkey-bacon-in-the-oven-recipe.jpg,"Lean turkey bacon strips, offering a healthier twist on a breakfast classic."
+Maple Sausage Links,Commons,1,0,0,Breakfast,0,0,0,https://cached.dakinfarm.com/RS/SR/Product/99/144_R_165d4faa.jpg,"Maple-flavored sausage links, providing a sweet and savory breakfast option."
+Strudel Bites,Commons,1,0,0,Breakfast,0,0,0,https://www.kroger.com/product/images/large/front/0004157300374,"Sweet strudel bites filled with fruit, perfect for a delightful breakfast pastry."
+Seasoned Potato Wedges,Commons,1,0,0,Breakfast,0,0,0,https://www.alyonascooking.com/wp-content/uploads/2020/04/oven-baked-potato-wedges-34.jpg,"Seasoned potato wedges, crispy and flavorful, perfect as a breakfast side or snack."
+Churro,Commons,1,0,0,Breakfast,0,0,0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrGoY33lfzmOdDTk-L-mtu4KhjAT0mXu3guw&s,"Sweet and crispy churro dusted with cinnamon sugar, offering a delightful treat."
+Corned Beef Scramble,Commons,1,0,0,Breakfast,0,0,0,https://oldneighborhoodfoods.com/wp-content/uploads/2012/04/30_recipe_large-1.jpg,"Scrambled eggs with corned beef and spices, providing a hearty breakfast option."
+Potato Triangles,Commons,1,0,0,Breakfast,1,1,1,https://www.foodfusion.com/wp-content/uploads/2018/12/Potato-Triangles-2-Ways-Recipe-by-Food-fusion-4.jpg?v=1587764205,"Crispy potato triangles, seasoned and golden brown, perfect for breakfast or snacking."
+Pigs in a Blanket,Commons,1,0,0,Breakfast,0,0,0,"https://hips.hearstapps.com/hmg-prod/images/pigs-in-a-blanket-index-657cac59d58db.jpg?crop=0.6667767685108725xw:1xh;center,top&resize=1200:*","Bite-sized sausages wrapped in dough, providing a savory treat perfect for breakfast."
+Cinnamon Poppers,Commons,1,0,0,Breakfast,0,0,0,https://i2.wp.com/www.kiwiandcarrot.com/wp-content/uploads/2018/06/BLOG-Photo2-2.jpg?fit=900%2C1176&ssl=1,"Sweet cinnamon poppers, offering a delightful pastry treat to start the day."
+Zero Egg,Commons,1,0,0,Breakfast,0,0,0,https://images.squarespace-cdn.com/content/v1/5ef3db19071b253a0cdad63a/f9101a68-0e29-4a17-a6a8-862613191a6f/zeroegglanding.png,"Plant-based zero-egg scramble, providing a delicious, egg-free breakfast option."
+Roasted Red Potatoes,Commons,1,0,0,Breakfast,1,1,1,https://www.dinneratthezoo.com/wp-content/uploads/2020/05/roasted-red-potatoes-6.jpg,"Flavorful roasted red potatoes, crispy on the outside and tender inside, ideal for any meal."
+Honey Chili Glazed Chicken,Commons,0,1,0,Lunch,0,0,1,https://casuallypeckish.com/wp-content/uploads/2022/10/Crispy-honey-chilli-chicken-5.jpg,"Chicken glazed with honey and chili, providing a sweet and spicy flavor profile."
+Keema Beef Curry,Commons,0,1,0,Lunch,0,0,1,https://www.tamingtwins.com/wp-content/uploads/2023/04/keema-curry-beef-mince-1-680x905-1-e1681830497742.jpg,"Savory keema beef curry, offering a flavorful and hearty option for lunch or dinner."
+Rice Noodles,Commons,0,1,0,Lunch,0,0,1,https://www.sonshinekitchen.com/wp-content/uploads/2024/01/quick-easy-garlic-rice-noodles-recipe-500x500.jpg,"Soft rice noodles tossed in savory sauces, perfect for a light and delicious meal."
+Green Curried Tofu,Commons,0,1,0,Lunch,1,1,1,https://thehiddenveggies.com/wp-content/uploads/2022/01/Thai-green-curry-with-tofu-sq.jpg,"Tofu cooked in fragrant green curry, providing a flavorful vegan option."
+Spiced Basmati,Commons,0,1,0,Lunch,1,1,1,"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-967549_11-f181479.jpg?quality=90&resize=440,400","Aromatic spiced basmati rice, fluffy and perfect as a side dish."
+Sesame Snap Peas,Commons,0,1,0,Lunch,1,1,1,https://www.spendwithpennies.com/wp-content/uploads/2016/02/Sesame-Ginger-Snap-Peas-SpendWithPennies-10.jpg,"Crunchy sesame snap peas, offering a fresh and crisp addition to any meal."
+"Cauliflower, Carrots, Tomatoes, Broccoli, and Kale",Commons,0,1,0,Lunch,1,1,1,https://cleananddelicious.com/wp-content/uploads/2021/11/roasted-vegetables-1.jpg,"Medley of cauliflower, carrots, tomatoes, broccoli, and kale, providing a colorful veggie mix."
+Indian Naan,Commons,0,1,0,Lunch,0,1,0,https://www.thespruceeats.com/thmb/MReCj8olqrCsPaGvikesPJie02U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/naan-leavened-indian-flatbread-1957348-final-08-116a2e523f6e4ee693b1a9655784d9b9.jpg,"Soft and fluffy Indian naan bread, perfect for dipping or enjoying alongside meals."
+Pickled Vegetables,Commons,0,1,0,Lunch,0,0,0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4qcb22gGxNUZKydb5NtUQ4S9_6pxU7DaqAw&s,"Tangy pickled vegetables, offering a refreshing and zesty side to any meal."
+Wonton Srip,Commons,0,1,0,Lunch,0,1,1,https://www.seriouseats.com/thmb/w3nBKYzKod0M3jJGylNymmZHf8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2013__04__20130407-wonton-soup-food-lab-52-c5bdd4230804496b86c1055acd674393.jpg,"Crispy wontons filled with savory ingredients, perfect for dipping or snacking."
+Eel Sauce,Commons,0,1,0,Lunch,0,0,0,https://www.allrecipes.com/thmb/6-x5oDd8YGe0iQs8KI686vpCrys=/0x512/filters:no_upscale():max_bytes(150000):strip_icc()/AR-201093-Eel-Sauce-DDMFS-4x3-9c884e9e38394100a0a5a5aa9aa40ddb.jpg,"Rich eel sauce, adding a sweet and savory flavor to sushi and other dishes."
+Siracha Mayo,Commons,0,1,0,Lunch,0,0,0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVcqULQ-mAoV7hLL7SVH3nLKKYwNWBsUu2sA&s,"Creamy sriracha mayo, offering a spicy kick for sandwiches and wraps."
+Teriyaki Pork Loin,Commons,0,1,0,Lunch,0,0,0,https://butteryourbiscuit.com/wp-content/uploads/2024/04/teriyaki-grilled-pork-tenderloin-11.jpg,"Tender teriyaki pork loin, glazed with sweet and savory sauce, perfect for lunch or dinner."
+Yakisoba with Snap Peas,Commons,0,1,0,Lunch,1,1,0,https://www.simplesweetsavory.com/wp-content/uploads/2018/09/Beef-Yakisoba-with-Sugar-Snap-Peas-finished-side-small.jpg,"Flavorful yakisoba noodles stir-fried with snap peas, offering a satisfying dish."
+PB Gouchujang Chicken,Commons,0,1,0,Lunch,1,1,0,https://sachaservedwhat.com/wp-content/uploads/2024/10/Crispy-Tofu-with-Peanut-Sauce-Sacha-Served-What-3.jpeg,"Spicy peanut gochujang chicken, delivering a flavorful kick in every bite."
+White Rice,Commons,0,1,0,Lunch,1,1,0,https://asassyspoon.com/wp-content/uploads/cuban-white-rice-1.jpg,"Fluffy white rice, perfect as a base for various dishes or as a side."
+Sigeumchi Namul,Commons,0,1,0,Lunch,1,1,1,https://www.seriouseats.com/thmb/D1SJ4ccOv-5tkTGiSecYY3DHj-s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__02__20200205-banchan-SIGEUMCHi-NAMUL-marinated-spinach-vicky-wasik-4-867638e5d0584cd4ada40366dd9d0f41.jpg,"Sigeumchi namul, seasoned spinach providing a nutritious and flavorful side dish."
+Midori Vegetable Blend,Commons,0,1,0,Lunch,0,0,0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCSsYYB3oQOskmhoAbHCBWrrXPkzOx4aYRqQ&s,"Colorful midori vegetable blend, offering a fresh mix of veggies for any meal."
+Korean Chicken Skewers,Commons,0,1,0,Lunch,0,0,1,https://futuredish.com/wp-content/uploads/2017/12/Korean-Chicken-Skewers.jpg,"Grilled Korean chicken skewers, marinated in savory flavors for a delicious option."
+Vegetable Spring Rolls,Commons,0,1,0,Lunch,1,1,0,https://www.indianhealthyrecipes.com/wp-content/uploads/2022/04/spring-rolls-with-vegetables.jpg,"Crispy vegetable spring rolls, providing a light and crunchy appetizer or snack."
+Sesame Garlic Chicken,Commons,0,1,0,Lunch,0,0,0,https://www.dinneratthezoo.com/wp-content/uploads/2015/04/sesame-chicken-1.jpg,"Tender sesame garlic chicken, delivering bold flavors in every bite."
+Beef Bulgogi,Commons,0,1,0,Lunch,0,0,1,https://www.allrecipes.com/thmb/7exJEmC0HnVrGF58L9IhQ2j0ePk=/0x512/filters:no_upscale():max_bytes(150000):strip_icc()/100606-beef-bulgogi-DDMFS-4x3-b59a31e8b94f4c7091e333847bf0c406.jpg,"Savory beef bulgogi, marinated and grilled, perfect for serving with rice or noodles."
+Five Spice Classic Plant Based Cutlet,Commons,0,1,0,Lunch,1,1,1,https://exploringvegan.com/wp-content/uploads/2024/05/Meati-Classic-Cutlet-Recipe-1.png,"Plant-based cutlet seasoned with five spices, offering a flavorful meat alternative."
+Kimchi Fried Rice,Commons,0,1,0,Lunch,0,0,0,"https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2023-12-kimchi-fried-rice%2Fkimchi-fried-rice-197","Flavorful kimchi fried rice, offering a spicy and tangy option for a hearty meal."
+Roasted Carrots,Commons,0,1,0,Lunch,1,1,1,https://www.spendwithpennies.com/wp-content/uploads/2018/10/Spend-With-Pennies-Roasted-Carrots-25.jpg,"Sweet roasted carrots, caramelized for a delightful side dish."
+Far East Vegetables,Commons,0,1,0,Lunch,1,1,1,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe3QF_I3w4qT9wFWG0Duxw0zcklwyIplfj7A&s,"Fresh far east vegetable medley, providing a colorful mix of seasonal veggies."
+Pork Egg Rolls,Commons,0,1,0,Lunch,0,0,0,https://playswellwithbutter.com/wp-content/uploads/2022/12/Pork-Egg-Rolls-23.jpg,"Crispy pork egg rolls, filled with savory ingredients for a tasty snack."
+Indian Saffron Chicken,Commons,0,1,0,Lunch,0,0,0,https://i0.wp.com/djalalicooks.com/wp-content/uploads/2022/01/IMG_1192.jpg?resize=787%2C1024&ssl=1,"Flavorful Indian saffron chicken, delivering aromatic spices for a delicious meal."
+Thai BBQ Salmon,Commons,0,1,0,Lunch,0,0,0,https://s23209.pcdn.co/wp-content/uploads/2016/07/Thai-Salmon-in-FoilIMG_9839edit-1.jpg,"Tender Thai BBQ salmon, grilled and glazed with a sweet and spicy sauce."
+Chana Masala,Commons,0,1,0,Lunch,1,1,1,https://ministryofcurry.com/wp-content/uploads/2023/06/chana-masala_-5.jpg,"Spicy chana masala, offering hearty chickpeas in a flavorful tomato sauce."
+Basmati rice,Commons,0,1,0,Lunch,1,1,1,https://www.indianhealthyrecipes.com/wp-content/uploads/2023/07/basmati-rice-recipe-500x500.jpg,"Fluffy basmati rice, perfect as a side dish or base for various meals."
+Coconut Rice,Commons,0,1,0,Lunch,1,1,1,https://www.allrecipes.com/thmb/D-ReFVPlS8yXPHxNwGT5RkRt1cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/237021-sweet-coconut-rice-ddmfs-beauty-4x3-BG-2942-fdf249042cf64e9cb76f780de3a52fa9.jpg,"Sweet coconut rice, providing a creamy and tropical flavor perfect for pairing with dishes."
+Cumin Roasted Carrots,Commons,0,1,0,Lunch,1,1,1,https://www.bhg.com/thmb/Z4VUyi1CB4m9a_R2Ak1DeWC4H_c=/1244x0/filters:no_upscale():strip_icc()/honey-cumin-roasted-carrots-RU297262-7f081a9d7fb54dab883c58e0f6d28f4b.jpg,"Cumin roasted carrots, seasoned with spices for a flavorful side."
+Kyoto Vegetable Blend,Commons,0,1,0,Lunch,1,1,0,https://images.ctfassets.net/0dkgxhks0leg/5tNiD9oJJ3yhCoGLC660cB/555a449c4c38a9609fd4b8dbb2c9a2c7/TF_20FW_22_20Riced_20Cauliflower_20Fried_20Rice.jpg,"Colorful Kyoto vegetable blend, offering a fresh mix for any meal."
+Thai Vegetable Spring Rolls,Commons,0,1,0,Lunch,1,1,0,https://www.marionskitchen.com/wp-content/uploads/2019/02/20170828_spring-roll-FB-Live-3-e1552875551168.jpg,"Crispy Thai vegetable spring rolls, perfect for dipping in sweet sauce."
+Garlic Ginger Chicken Wings,Commons,0,1,0,Lunch,0,0,0,https://www.carnaldish.com/wp-content/uploads/2015/09/garlicgingerwings4.jpg,"Sticky garlic ginger chicken wings, providing a sweet and spicy kick."
+Red Curry Shrimp,Commons,0,1,0,Lunch,0,0,0,https://peasandcrayons.com/wp-content/uploads/2019/10/thai-coconut-shrimp-curry-recipe-2.jpg,"Spicy red curry shrimp, cooked in rich coconut milk and spices for a flavorful dish."
+Honey Garlic Plant Based Meatballs,Commons,0,1,0,Lunch,1,1,1,https://www.persnicketyplates.com/wp-content/uploads/2021/11/crockpot-honey-garlic-meatballs-SQUARE.jpg,"Sweet honey garlic plant-based meatballs, perfect for a savory and satisfying meal."
+Jasmine Rice,Commons,0,1,0,Lunch,1,1,1,https://www.onceuponachef.com/images/2014/10/jasmine-rice-1-1200x900.jpg,"Fluffy jasmine rice, ideal as a side or base for delicious dishes."
+Fried Rice,Commons,0,1,0,Lunch,0,0,1,https://www.madewithlau.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F2r0kdewr%2Fproduction%2F2c90f6410d47972d8555dd5ddcbcc47346957d43-1000x668.jpg&w=3840&q=75,"Flavorful fried rice, packed with veggies and protein for a satisfying meal."
+Sesame Mushrooms and Broccoli,Commons,0,1,0,Lunch,1,1,1,https://omnivorescookbook.com/wp-content/uploads/2023/11/230911_Broccoli-And-Mushroom-Stir-Fry_550.jpg,"Crunchy sesame mushrooms and broccoli, delivering fresh flavors to complement any meal."
+California Vegetable Blend,Commons,0,1,0,Lunch,0,0,0,https://thestayathomechef.com/wp-content/uploads/2023/06/Simple-California-Blend_Square-1.jpg,"Colorful California vegetable blend, providing a nutritious mix for sides or entrees."
+Crab Rangoons,Commons,0,1,0,Lunch,0,0,1,https://twoplaidaprons.com/wp-content/uploads/2023/03/crab-wontons-thumbnail.jpg,"Crispy crab rangoons filled with creamy crab mixture, perfect for dipping."
+Greek Chicken,Commons,0,1,0,Lunch,0,0,0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ82lMWrp2qddCvTjwDLSjjWaMZFZv8gBTFJw&s,"Savory Greek chicken marinated in herbs, ideal for grilling or roasting."
+Beef and Lamb Gyro,Commons,0,1,0,Lunch,0,0,0,https://tastesbetterfromscratch.com/wp-content/uploads/2023/07/Gyros-1.jpg,"Flavorful beef and lamb gyro, served in warm pita with fresh toppings."
+French Fries,Commons,0,1,0,Lunch,1,1,1,https://www.recipetineats.com/tachyon/2022/09/Fries-with-rosemary-salt_1.jpg,"Crispy French fries, golden brown and delicious, perfect for snacking or as a side."
+Roasted Fresh Vegetables,Commons,0,1,0,Lunch,1,1,1,https://www.cookingclassy.com/wp-content/uploads/2018/12/roasted-vegetables-8.jpg,"Flavorful roasted fresh vegetables, perfect as a side dish for any meal."
+Pita Bread,Commons,0,1,0,Lunch,0,0,0,https://www.mygreekdish.com/wp-content/uploads/2014/10/Easiest-homemade-Pita-Bread-recipe-scaled.jpeg,"Soft pita bread, perfect for scooping or wrapping around your favorite fillings."
+Tzatziki Sauce,Commons,0,1,0,Lunch,0,1,1,https://www.allrecipes.com/thmb/xWPLxr-zI_VqbjoY1GmtPwi46mM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20242-tzatziki-sauce-DDMFS-4x3-70d89ee85fb544d1a41344c0836aa36d.jpg,"Creamy tzatziki sauce, made with yogurt and cucumber, ideal for dipping or dressing."
+Spanakpita,Commons,0,1,0,Lunch,0,0,0,https://www.thehungrybites.com/wp-content/uploads/2020/10/Greek-spinach-pie-spanakopita-1.jpg,"Flaky spanakopita filled with spinach and cheese, offering a savory pastry option."
+Falafel,Commons,0,1,0,Lunch,1,1,1,https://tastythriftytimely.com/wp-content/uploads/2023/06/Falafel-Pita-FEATURED.jpg,"Crispy falafel balls made from chickpeas, perfect for a plant-based protein option."
+Mojo Pork,Commons,0,1,0,Lunch,0,0,0,https://assets.bonappetit.com/photos/6374d66d6cc47ec05a9b4588/1:1/w_2560%2Cc_limit/Bon%2520AP0250.jpg,"Tender mojo pork marinated in citrus, perfect for sandwiches or as a main dish."
+Ropa Vieja,Commons,0,1,0,Lunch,0,0,0,https://www.allrecipes.com/thmb/h3LsTZQ5FKdOgD9gCxrOYJEHrr0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/79301-cuban-ropa-vieja-DDMFS-4x3-0daa8085c6cd4423981002ffae990fb1.jpg,"Flavorful ropa vieja, featuring shredded beef in a savory sauce, perfect for lunch."
+Vegan Cuban picadillo,Commons,0,1,0,Lunch,1,1,0,https://www.cottercrunch.com/wp-content/uploads/2017/01/Cuban-Sweet-Potato-Picadillo-Bowls-Vegan-Cuban-Sweet-Potato-Picadillo-Bowls-Vegan-9-scaled.jpg,"Plant-based vegan Cuban picadillo, offering a savory and hearty meat alternative."
+Cilantro Lime Rice,Commons,0,1,0,Lunch,1,1,1,https://www.skinnytaste.com/wp-content/uploads/2009/03/Cilantro-Lime-Rice-5.jpg,"Fluffy cilantro lime rice, providing a fresh and zesty side for any meal."
+Siracha Lime Roasted Cauliflower,Commons,0,1,0,Lunch,0,1,1,https://fashionablefoods.com/wp-content/uploads/2015/10/Cauliflower-with-Sriracha.jpg,"Spicy sriracha lime roasted cauliflower, delivering bold flavors and a crunchy texture."
+Sauteed Peppers and Onions,Commons,0,1,0,Lunch,1,1,1,https://www.acouplecooks.com/wp-content/uploads/2020/09/Sauteed-Peppers-and-Onions-008.jpg,"Sautéed peppers and onions, offering a flavorful addition to wraps and bowls."
+Flour Tortillas,Commons,0,1,0,Lunch,1,1,1,https://www.halfbakedharvest.com/wp-content/uploads/2022/04/Easy-Homemade-Flour-Tortillas-1.jpg,"Soft flour tortillas, perfect for wrapping around delicious fillings."
+Taqueria Black Beans,Commons,0,1,0,Lunch,1,1,1,https://www.nourish-and-fete.com/wp-content/uploads/2021/04/black-bean-tacos-5.jpg,"Savory taqueria black beans, seasoned and perfect for tacos or bowls."
+Avocado Cream Sauce,Commons,0,1,0,Lunch,0,0,0,https://cdn.loveandlemons.com/wp-content/uploads/2021/04/avocado-sauce.jpg,"Creamy avocado cream sauce, ideal for drizzling over dishes for added flavor."
+Taqueria Salsa Roja,Commons,0,1,0,Lunch,1,1,0,https://mexicanmademeatless.com/wp-content/uploads/2024/01/Salsa-Taquera-Recipe.jpg,"Fresh taqueria salsa roja, offering a spicy and flavorful tomato salsa."
+Meat Lasagna,Commons,0,1,0,Lunch,0,0,0,https://dinnerthendessert.com/wp-content/uploads/2016/04/Ultimate-Meat-Lasagna-3-1.jpg,"Hearty meat lasagna layered with cheese and sauce, providing a comforting meal."
+Chicken Picatta,Commons,0,1,0,Lunch,0,0,0,https://www.saltandlavender.com/wp-content/uploads/2020/02/chicken-piccata-1.jpg,"Tender chicken piccata with lemon and capers, offering a savory and zesty flavor."
+Plant Based Meatballs and Spaghetti,Commons,0,1,0,Lunch,1,1,1,https://cdn.loveandlemons.com/wp-content/uploads/2020/02/spaghetti-and-meatballs.jpg,"Plant-based meatballs served with spaghetti and marinara sauce, offering a delicious meal."
+Rice Pilaf,Commons,0,1,0,Lunch,0,0,0,https://www.sipandfeast.com/wp-content/uploads/2024/03/rice-pilaf-recipe-snippet.jpg,"Flavorful rice pilaf, seasoned and fluffy, perfect as a side dish."
+Steamed Broccoli,Commons,0,1,0,Lunch,1,1,1,https://www.onceuponachef.com/images/2024/05/Steamed-Broccoli-in-Pan-Method-4.jpg,"Crisp steamed broccoli, providing a nutritious side dish for any meal."
+Steamed Green Beans,Commons,0,1,0,Lunch,1,1,1,https://www.budgetbytes.com/wp-content/uploads/2020/09/How-to-Steam-Green-Beans-H-500x375.jpg,"Fresh steamed green beans, offering a light and healthy side option."
+Focaccia,Commons,0,1,0,Lunch,0,0,0,https://theplantbasedschool.com/wp-content/uploads/2024/04/Focaccia-with-rosemary.jpg,"Soft focaccia bread, perfect for dipping in oils or enjoying on its own."
+Parmesan Cheese,Commons,0,1,0,Lunch,0,1,0,https://assets.clevelandclinic.org/transform/0a272376-d2c4-4936-8239-7c7ef2e5b4e9/ParmesanCheese-471343790-770x533-1_jpg,"Grated parmesan cheese, perfect for topping pasta dishes or salads."
+Italian Beef,Commons,0,1,0,Lunch,0,0,0,https://www.portillos.com/assets/1/27/DimRegular/Italian_Beef.jpg?3910,"Savory Italian beef, served on a bun for a hearty sandwich option."
+Lemon Oregano Chicken,Commons,0,1,0,Lunch,0,0,0,https://kaleforniakravings.com/wp-content/uploads/2023/04/Lemon-oregano-chicken-500x500.jpg,"Herb and lemon marinated oregano chicken, delivering fresh flavors in every bite."
+Eggplant Parmesan,Commons,0,1,0,Lunch,0,0,0,https://www.allrecipes.com/thmb/v8J8OelKo1bEJ9RyekLtL89A_R0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4457679-eggplant-parmesan-gluten-free-Buckwheat-Queen-4x3-1-1380f16c6cc14e059f7ae7d741d390d9.jpg,"Flavorful eggplant parmesan baked with cheese and marinara, offering a comforting dish."
+Onion Rings,Commons,0,1,0,Lunch,0,0,1,https://www.allrecipes.com/thmb/riouEgfO9AywX0nYG73z8GGraHk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/207422_Old-Fashioned-Onion-Rings_82659_Photo-by-Tricia-Winterle-Jaeger-2000-a96820e27cb64cafa8c4925ad027a59d.jpg,"Crispy onion rings, perfect for snacking or adding crunch to meals."
+Garlic Mushrooms,Commons,0,1,0,Lunch,1,1,1,https://cafedelites.com/wp-content/uploads/2018/10/Garlic-Mushrooms-IMAGE-4.jpg,"Garlic sautéed mushrooms, offering a savory side dish perfect for any meal."
+Three Cheese Sauce,Commons,0,1,0,Lunch,0,0,0,https://target.scene7.com/is/image/Target/GUEST_4c9d1b52-6867-4410-b8a1-7ca2bb748d0f?wid=488&hei=488&fmt=pjpeg,"Creamy three cheese sauce, perfect for pasta or as a dip for appetizers."
+Chicken Parmesan,Commons,0,1,0,Lunch,0,0,0,https://www.budgetbytes.com/wp-content/uploads/2024/04/Chicken-Parmesan-Overhead-500x500.jpg,"Breaded chicken parmesan topped with marinara and cheese, delivering a classic Italian dish."
+Shrimp Scampi,Commons,0,1,0,Lunch,0,0,0,"https://assets.bonappetit.com/photos/58a4e12a9fda6d7fbc740e91/1:1/w_3333,h_3333,c_limit/shrimp-scampi.jpg","Tender shrimp scampi cooked in garlic butter sauce, served over pasta for a luxurious meal."
+Pesto Gnocchi,Commons,0,1,0,Lunch,0,0,0,https://www.insidetherustickitchen.com/wp-content/uploads/2020/05/Pesto-gnocchi-1200px-Inside-the-rustic-kitchen.jpg,"Soft pesto gnocchi, tossed in a flavorful sauce for a comforting dish."
+Bean and Roasted Vegetable Ratatouille,Commons,0,1,0,Lunch,1,1,1,https://www.diannesvegankitchen.com/wp-content/uploads/2021/09/feature-ratatouille-5.jpg,"Hearty bean and roasted vegetable ratatouille, offering a colorful mix of flavors."
+Roasted Squash,Commons,0,1,0,Lunch,0,0,0,https://www.noracooks.com/wp-content/uploads/2022/08/roasted-squash-and-zucchini-5.jpg,"Sweet roasted squash, caramelized for a delightful and nutritious side."
+Garlic Bread,Commons,0,1,0,Lunch,0,0,0,https://www.budgetbytes.com/wp-content/uploads/2023/08/Garlic-Bread-close.jpg,"Warm garlic bread, perfect for dipping or enjoying alongside pasta dishes."
+Spaghetti with Marinara Sauce,Commons,0,1,0,Lunch,1,1,1,https://www.cookingclassy.com/wp-content/uploads/2016/06/marinara-sauce-18.jpg,"Classic spaghetti with marinara sauce, offering a comforting and filling meal."
+Garlic Shrimp Pasta Bake,Commons,0,1,0,Lunch,0,0,0,https://www.the-pasta-project.com/wp-content/uploads/Penne-Pasta-1.jpg,"Cheesy garlic shrimp pasta bake, perfect for a hearty and satisfying dinner."
+Penne,Commons,0,1,0,Lunch,1,1,1,https://www.the-pasta-project.com/wp-content/uploads/Penne-Pasta-1.jpg,"Soft penne pasta, perfect for pairing with various sauces and toppings."
+Alfredo Sauce,Commons,0,1,0,Lunch,0,0,0,https://www.allrecipes.com/thmb/9aWCdbfttLcsW2dFQWwVQBGJM3E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-236973-CreamyAlfredoSauce-0238-4x3-1-01e7091f47ae452d991abe32cbed5921.jpg,"Creamy alfredo sauce, perfect for tossing with pasta for a rich dish."
+Cheese Pizza,Commons,0,1,0,Lunch,0,1,0,https://kitchenatics.com/wp-content/uploads/2020/09/Cheese-pizza-1.jpg,Classic cheese pizza topped with tomato sauce and mozzarella for a delicious meal.
+Pepperoni Pizza,Commons,0,1,0,Lunch,0,0,0,https://againstthegraingourmet.com/cdn/shop/products/Pepperoni_Pizza_Beauty_1000x1000.jpg?v=1658703726,"Classic pepperoni pizza, featuring spicy pepperoni slices atop gooey cheese."
+Goat Cheese Pizza,Commons,0,1,0,Lunch,0,0,0,https://www.fuegowoodfiredovens.com/wp-content/uploads/2022/08/goats-cheese-caramelised-onions-and-fig-pizza.jpg,Flavorful goat cheese pizza topped with fresh ingredients for a savory option.
+Breadsticks,Commons,0,1,0,Lunch,0,1,0,https://sugarspunrun.com/wp-content/uploads/2021/09/Homemade-Breadsticks-Recipe-1-of-1.jpg,"Soft breadsticks, perfect for dipping in marinara or enjoying with meals."
+Cajun Chicken Pasta,Commons,0,1,0,Lunch,0,0,0,https://thecozycook.com/wp-content/uploads/2020/06/Cajun-Chicken-Pasta-f-2.jpg,"Spicy cajun chicken pasta, delivering bold flavors and a satisfying meal."
+Taco Pizza,Commons,0,1,0,Lunch,0,0,0,https://www.the-girl-who-ate-everything.com/wp-content/uploads/2018/06/taco-pizza-recipe-003.jpg,Unique taco pizza topped with seasoned beef and all your favorite toppings.
+Pesto Cream Sauce,Commons,0,1,0,Lunch,0,0,0,https://richanddelish.com/wp-content/uploads/2023/02/creamy-pesto-pasta-1.jpg,"Creamy pesto cream sauce, perfect for tossing with pasta or drizzling on pizzas."
+Sausage Mostaccioli,Commons,0,1,0,Lunch,0,0,0,https://www.safeway.ca/wp-content/uploads/2020/11/recipe-mostaccioli-with-sausage-sobetys.jpg,Hearty sausage mostaccioli baked with cheese and marinara for a comforting dish.
+BBQ Chicken Pizza,Commons,0,1,0,Lunch,0,0,0,https://www.allrecipes.com/thmb/qZ7LKGV1_RYDCgYGSgfMn40nmks=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-24878-bbq-chicken-pizza-beauty-4x3-39cd80585ad04941914dca4bd82eae3d.jpg,"Sweet BBQ chicken pizza, topped with tangy barbecue sauce and grilled chicken."
+Blush Sauce,Commons,0,1,0,Lunch,0,0,0,https://www.cento.com/images/recipes/sauce/gnocchi_alla_rosa_sauce.jpg,"Rich blush sauce, a creamy tomato sauce perfect for pasta or as a dip."
+Butternut Ravioli with Sherry Dijon Sauce,Commons,0,1,0,Lunch,0,1,0,https://images.squarespace-cdn.com/content/v1/5fc3cd76affbf90a66fc921d/1615258844310-R4UHOKENB2EBFIYAFNG2/IMG_1614.jpeg,"Delicate butternut ravioli tossed in a rich sherry Dijon sauce, offering a sweet and savory flavor combo."
+Beef Bolognese,Commons,0,1,0,Lunch,0,0,0,https://www.inspiredtaste.net/wp-content/uploads/2023/02/Bolognese-Recipe-4-1200.jpg,"Hearty beef bolognese sauce simmered to perfection, served over pasta."
+Breakfast Pizza,Commons,0,1,0,Lunch,0,0,0,https://www.foodandwine.com/thmb/EUnl_kGLgYVYMozLPuTw_8zR98s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/smoky-breakfast-pizzas-FT-RECIPE0221-62397ac0094d415ab70803bde96d978f.jpg,"Fluffy breakfast pizza topped with eggs, cheese, and your choice of meats."
+Baked Lemon Butter Salmon Pasta,Commons,0,1,0,Lunch,0,0,0,https://www.spendwithpennies.com/wp-content/uploads/2017/09/Lemon-Butter-Salmon-Pasta4.jpg,"Baked lemon butter salmon pasta, offering a light and flavorful seafood option."
+Margherita Pizza,Commons,0,1,0,Lunch,0,1,0,https://ohsweetbasil.com/wp-content/uploads/four-cheese-margherita-pizza-recipe-12-scaled.jpg,Classic margherita pizza topped with fresh basil and tomatoes for a light option.
+Arrabbiata Sauce,Commons,0,1,0,Lunch,1,1,1,https://www.allrecipes.com/thmb/cKuuSa-mhucjER_3SqM_x6c53W0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11839-ArrabbiataSauce-ddmfs-Step-3-0866-931c7a20ef584ae889e191f26afa6651.jpg,"Spicy arrabbiata sauce, perfect for pasta lovers seeking a kick of heat."
+Fried Eggs,Commons,0,1,0,Lunch,0,0,0,https://www.onceuponachef.com/images/2024/04/Fried-Egg-Hero-3-scaled.jpg,"Fluffy fried eggs cooked to perfection, perfect for breakfast or brunch."
+Sausage Patties,Commons,0,1,0,Lunch,0,0,0,https://iambaker.net/wp-content/uploads/2019/09/sausage-2.jpg,"Savory sausage patties, providing a hearty protein option for breakfast."
+Bacon,Commons,0,1,0,Lunch,0,0,0,https://www.bhg.com/thmb/37ps0cuGNH1cCfaGASICj5ySyFs=/4000x0/filters:no_upscale():strip_icc()/BHG-recipes-breakfast-meats-how-to-cook-bacon-hero-01-aa03bb2a34ec4135b80085a1da6bfe67.jpg,"Crispy bacon strips, adding flavor to breakfast or brunch dishes."
+Everything Bagel,Commons,0,1,0,Lunch,0,0,1,https://www.newyorkerbagels.com/cdn/shop/files/everything-bagels-single-739_1200x1200.jpg?v=1719342355,Everything bagel topped with seeds and spices for a flavorful breakfast option.
+Three Cheese Grilled Cheese,Commons,0,1,0,Lunch,0,1,1,https://dfwblobstorage.blob.core.windows.net/images/Recipe/Ultimate-Three-Cheese-Grilled-Cheese-wc.jpg,Grilled cheese sandwich with three cheeses for a comforting and gooey option.
+Grilled Cheese with Bacon,Commons,0,1,0,Lunch,0,0,0,https://stordfkenticomedia.blob.core.windows.net/df-us/rms/media/recipesmedia/recipes/retail/desktopimages/2019/jul/2019_df_retail_bacon-pimento-cheese-grilled-cheese_20883_cropped_600.jpg?ext=.jpg,Grilled cheese sandwich with crispy bacon for a savory twist on a classic.
+Grilled Hamburger Patties,Commons,0,1,0,Lunch,0,0,0,https://www.afamilyfeast.com/wp-content/uploads/2021/05/Perfect-Grilled-Burgers-2.jpg,"Juicy grilled hamburger patties, perfect for assembling your favorite burgers."
+Roasted Poblano and Black Bean Burger,Commons,0,1,0,Lunch,1,1,1,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw-p5pLm71fHoLQ_42trg_UnZP9G8_6q4BEA&s,"Flavorful roasted poblano and black bean burger, offering a hearty plant-based option."
+Cheese Quesadilla,Commons,0,1,0,Lunch,0,0,0,https://www.sidechef.com/recipe/7d2c70c5-6c07-4937-aa96-ce1be05d2cbf.jpg?d=1408x1120,"Cheesy quesadilla filled with melted cheese, perfect for a quick meal."
+Black Bean and Corn Quesadilla,Commons,0,1,0,Lunch,0,1,1,https://www.budgetbytes.com/wp-content/uploads/2012/02/Hearty-Black-Bean-Quesadillas-stack.jpg,"Quesadilla filled with black beans and corn, offering a flavorful vegetarian option."
+Taqueria Salsa Roja,Commons,0,1,0,Lunch,1,1,0,https://patijinich.com/wp-content/uploads/2019/08/804-street-style-salsa.jpg,"Fresh taqueria salsa roja, offering a spicy and flavorful dipping option."
+Taqueria Tortilla Chips,Commons,0,1,0,Lunch,1,1,0,https://mexicanmademeatless.com/wp-content/uploads/2024/01/Salsa-Taquera-Recipe.jpg,"Crispy taqueria tortilla chips, perfect for snacking or dipping."
+Honey Orange Grilled Chicken,Commons,0,1,0,Lunch,0,0,0,https://www.foodnetwork.com/content/dam/images/food/fullset/2011/4/8/0/NY0813H_honey-orange-bbq-chicken_s4x3.jpg,"Sweet honey orange grilled chicken, providing a flavorful main dish."
+Smashed Redskin Potatoes,Commons,0,1,0,Lunch,1,1,1,https://cookingformysoul.com/wp-content/uploads/2022/10/feat-red-mashed-potatoes-min.jpg,"Creamy smashed redskin potatoes, buttery and flavorful, perfect as a side dish."
+Fresh Fruit Salad,Commons,0,1,0,Lunch,1,1,1,https://www.momontimeout.com/wp-content/uploads/2021/06/fruit-salad-square.jpeg,"Fresh fruit salad featuring seasonal fruits, providing a light and refreshing option."
+Three Bean Salad,Commons,0,1,0,Lunch,1,1,0,https://www.simplyrecipes.com/thmb/kLkHx6jmSO89c_OsC08mOU8O91w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2006__05__three-bean-salad-horiz-a-1600-b357b4d8fc644f7e95983f51c8ef5572.jpg,"Hearty three bean salad, combining various beans for a nutritious dish."
+Hard Shell Beef Tacos,Commons,0,1,0,Lunch,0,0,0,https://www.onceuponachef.com/images/2023/08/Beef-Tacos-760x570.jpg,"Crunchy hard shell beef tacos, perfect for filling with your favorite toppings."
+Spicy Pinto Beans,Commons,0,1,0,Lunch,1,1,1,https://spicysouthernkitchen.com/wp-content/uploads/Slow-Cooker-Spicy-Pinto-Beans-5.jpg,"Spicy pinto beans, seasoned and perfect for adding to various dishes."
+Ejotes a la Mexicana,Commons,0,1,0,Lunch,1,1,1,https://inmamamaggieskitchen.com/wp-content/uploads/2022/08/Ejotes-a-la-Mexicana-.jpg,"Flavorful ejotes a la mexicana, offering a fresh green bean dish."
+Jicama Slaw,Commons,0,1,0,Lunch,1,1,1,https://www.savoryonline.com/app/uploads/recipes/216564/gingery-jicama-slaw.jpg,"Crunchy jicama slaw, providing a refreshing and crisp side option."
+Honey Dijon Chicken Thighs,Commons,0,1,0,Lunch,0,0,1,https://cravingtasty.com/wp-content/uploads/2018/09/Honey-Mustard-Chicken-Recipe-10.jpg,"Tender honey dijon chicken thighs, baked for a sweet and savory flavor."
+Herbed Quinoa,Commons,0,1,0,Lunch,0,0,0,https://www.oatmealwithafork.com/wp-content/uploads/2016/06/Lemon-Herb-Quinoa-3-480x270.jpg,"Herbed quinoa, providing a nutritious and flavorful base for various meals."
+"Zucchini, Squash, Peppers, Carrots",Commons,0,1,0,Lunch,1,1,1,https://www.walderwellness.com/wp-content/uploads/2022/06/Zucchini-Stir-Fry-Vegan-Walder-Wellness-2.jpg,"Colorful mix of zucchini, squash, peppers, and carrots, offering a fresh veggie option."
+Germon Potato Salad,Commons,0,1,0,Lunch,1,1,0,https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2023/04/German-Potato-Salad-8.jpg,"Creamy German potato salad, offering a tangy and delicious side dish."
+Garlic Sauteed Snap Peas,Commons,0,1,0,Lunch,1,1,1,https://ohsweetbasil.com/wp-content/uploads/garlic-sauteed-sugar-snap-peas-4-scaled.jpg,"Garlic sautéed snap peas, providing a fresh and crunchy side option."
+Lentil Pasta Salad,Commons,0,1,0,Lunch,0,0,0,https://www.monicanedeff.com/wp-content/uploads/2020/07/red-lentil-pasta-salad-recipe-500x500.jpg,"Hearty lentil pasta salad, combining lentils with pasta for a filling dish."
+Meatballs and Marinara,Commons,0,1,0,Lunch,0,0,0,https://cupfulofkale.com/wp-content/uploads/2020/01/Vegan-Meatballs-in-Marinara-Sauce-720x720.jpeg,Tender meatballs served with marinara sauce over pasta for a comforting meal.
+Cauliflower Rice,Commons,0,1,0,Lunch,1,1,1,https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2019/12/Cauliflower-Rice-main.jpg,"Fluffy cauliflower rice, offering a low-carb alternative for various dishes."
+Roasted Zucchini and Red Onion,Commons,0,1,0,Lunch,1,1,1,https://veronikaskitchen.com/wp-content/uploads/2022/04/Mediterranean-Roasted-Vegetables-9131.jpg,"Sweet roasted zucchini and red onion, caramelized for a flavorful side."
+Brussel Sprout Slaw,Commons,0,1,0,Lunch,1,1,1,"https://images.immediate.co.uk/production/volatile/sites/30/2022/10/Brussels-sprout-slaw-ed5062d.jpg?quality=90&resize=556,505","Crunchy Brussels sprout slaw, providing a fresh and zesty side option."
+Tiramisu Parfait,Commons,0,1,0,Lunch,0,0,0,https://constantlycooking.com/wp-content/uploads/2021/02/easy-tiramisu-parfaits-hero2.jpg,Decadent tiramisu parfait featuring layers of coffee-flavored cake and mascarpone.
+Smores Parfait,Commons,0,1,0,Lunch,0,0,0,https://www.thepinningmama.com/wp-content/uploads/2014/01/Smores-parfait-dessert-1-web-559x559.jpg,"Sweet s'mores parfait made with graham crackers, chocolate, and marshmallows."
+Lemon Parfait,Commons,0,1,0,Lunch,0,0,0,https://www.thelifejolie.com/wp-content/uploads/2022/07/Featured-Lemon-Parfait-Cups-Recipe-The-Life-Jolie.jpg,Light lemon parfait made with creamy lemon filling and a crumbly crust.
+Snickerdoodle Parfait,Commons,0,1,0,Lunch,0,0,0,https://images.squarespace-cdn.com/content/v1/5ed13dd3465af021e2c1342b/1640046543274-X7QOGSMMLN9BWLXE625G/IMG_7685.jpg?format=750w,Delicious snickerdoodle parfait with layers of cinnamon and sugar goodness.
+PB & J Parfait,Commons,0,1,0,Lunch,0,0,0,https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNchHG34bA998Rrn7qfwng-Kzww6VGWTDjXQXtJ__4YmG8HF-jnvTjnrd9OQEl9ahYWYhzMXBXfBg4cCWZ_udK-tVZAjN5tg9XZcirkoXaCR4I1P7fq4j2fbDE6KE0TZ1faZHOINQQMr62/s1600/Peanut+Butter+&+Jelly+Parfait+2+IMG_1902fc.jpg,"Classic PB & J parfait layered with peanut butter, jelly, and bread crumbs."
+Thai Chicken Soup,Commons,0,1,0,Lunch,0,0,0,https://www.allrecipes.com/thmb/GbHbtC4sZqIbPuQ__xU15oUP5xk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Thai-Chicken-Noodle-Soup-lutzflcat-2000-44a47caeddc044a184eb5041e4756192.jpeg,Flavorful Thai chicken soup packed with spices and fresh ingredients.
+Tomato Basil Soup,Commons,0,1,0,Lunch,0,0,0,https://therecipecritic.com/wp-content/uploads/2019/10/CE584C80-05AB-4560-9C2A-9D9F059EC932.jpeg,"Creamy tomato basil soup, perfect for dipping grilled cheese sandwiches."
+Loaded Potato Soup,Commons,0,1,0,Lunch,0,0,0,https://www.saltandlavender.com/wp-content/uploads/2019/10/loaded-baked-potato-soup-recipe-3.jpg,Hearty loaded potato soup topped with cheese and bacon for a comforting meal.
+Grasshopper Brownies,Commons,0,1,0,Lunch,0,0,0,https://static01.nyt.com/images/2017/12/13/dining/grasshopper-brownies/grasshopper-brownies-superJumbo.jpg,"Rich grasshopper brownies with mint flavor, perfect for chocolate lovers."
+Monkey Bread,Commons,0,1,0,Lunch,0,1,0,https://www.allrecipes.com/thmb/-dLfRrFCfsyjOBKaaBjhXH3XHfo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1116785-monkey-bread-from-scratch-Dianashh-4x3-1-c9e63a12cc4c472a8de5dafdc2be81e8.jpg,"Soft and sweet monkey bread, perfect for sharing or enjoying on your own."
+Red Velvet Whoopie Pie,Commons,0,1,0,Lunch,0,0,0,https://food.fnr.sndimg.com/content/dam/images/food/fullset/2009/12/13/0/FNM_010110-Sugar-Fix-003_s4x3.jpg.rend.hgtvcom.1280.1280.suffix/1371591074099.webp,"Decadent red velvet whoopie pie with cream cheese filling, perfect for dessert."
+Spapillas,Commons,0,1,0,Lunch,0,1,0,https://www.allrecipes.com/thmb/mQxnWO--CJjqbWuVUMYIiMjVIBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-23047-real-sopapillas-DDMFS-4x3-6b54c79245ca4775a11f34d4f3e0e135.jpg,"Flaky sopapillas drizzled with honey, offering a sweet and crispy treat."
+Cannoli with Ricotta and Chocolate Chips,Commons,0,1,0,Lunch,0,0,0,https://bakerbynature.com/wp-content/uploads/2016/11/untitled-35-of-101.jpg,"Delicious cannoli filled with ricotta and chocolate chips, offering a classic dessert."
+Chocolate Chip Blondie,Commons,0,1,0,Lunch,0,0,0,https://www.mybakingaddiction.com/wp-content/uploads/2013/02/chocolate-chip-blondies-on-parchment.jpg,"Soft chocolate chip blondie bars, sweet and chewy, perfect for dessert."
+Trix Cereal Bars,Commons,0,1,0,Lunch,0,0,0,https://mojo.generalmills.com/api/public/content/wUpInZf33EKCf3QEuuT1Lg_gmi_hi_res_jpeg.jpeg?v=a09696d0&t=eae6004af7d84bc5a9fa522ac84b14a8,"Crunchy Trix cereal bars, offering a sweet snack for any time of the day."
+Lemon Bars,Commons,0,1,0,Lunch,0,0,1,https://preppykitchen.com/wp-content/uploads/2020/02/Lemon-bars-1x1-2.jpg,"Tangy lemon bars with a buttery crust, perfect for a refreshing dessert."
+Red Velvet Cupcake,Commons,0,1,0,Lunch,0,0,0,https://www.2teaspoons.com/wp-content/uploads/2018/02/Red-Velvet-Cupcakes-IMG_2074-square.jpg,Soft red velvet cupcakes topped with creamy frosting for a delightful dessert.
+Drip Coffee,Peets,,,,,1,1,1,https://www.pngkey.com/png/detail/529-5295198_coffee-in-a-cup-clipart-coffee-tea-cold.png,"Rich and bold drip coffee, brewed to perfection, delivering a classic coffee experience for any time of day."
+Espresso,Peets,,,,,1,1,1,"https://peets-shop.imgix.net/products/espresso.png?v=1597269388&auto=format,compress&w=540","Intense espresso shot with a smooth, velvety texture, perfect for a quick caffeine boost or base for other drinks."
+Americano,Peets,,,,,1,1,1,"https://peets-shop.imgix.net/products/caffe-americano.png?v=1597269387&auto=format,compress&w=540","Espresso diluted with hot water, creating a rich yet smooth beverage that balances strength and flavor perfectly."
+Cappuccino,Peets,,,,,0,1,0,"https://peets-shop.imgix.net/products/cappuccino.png?v=1597269390&auto=format,compress&w=540","Velvety steamed milk combined with espresso and topped with a frothy layer, creating a classic Italian coffee experience."
+Latte,Peets,,,,,0,1,0,"https://peets-shop.imgix.net/products/caffe-latte.png?v=1597269391&auto=format,compress&w=540","Creamy espresso drink with steamed milk and a light foam topping, offering a smooth, sweet coffee experience."
+Vanilla Latte,Peets,,,,,0,1,0,"https://peets-shop.imgix.net/products/vanilla-caffe-latte.png?v=1597269391&auto=format,compress&w=540","Creamy latte infused with vanilla syrup, providing a delightful and fragrant twist on a classic favorite."
+Caramel Macchiato,Peets,,,,,0,1,0,"https://peets-shop.imgix.net/products/caramel-macchiato.png?v=1597269393&auto=format,compress&w=540","Espresso layered with caramel and milk, topped with foam, delivering a sweet and indulgent coffee experience."
+Mocha,Peets,,,,,0,1,0,"https://peets-shop.imgix.net/products/caffe-mocha.png?v=1597269393&auto=format,compress&w=540","Rich espresso blended with steamed milk and chocolate, topped with whipped cream for a decadent treat."
+White Chotolate Mocha,Peets,,,,,0,1,0,"https://peets-shop.imgix.net/products/white-chocolate-mocha.png?v=1597269394&auto=format,compress&w=540","Creamy white chocolate mocha made with espresso, steamed milk, and sweet white chocolate, offering a luxurious taste."
+Brewed Tea,Peets,,,,,1,1,1,https://karampdx.com/wp-content/uploads/2021/01/Iced-tea.jpg,"Fragrant brewed tea, steeped to perfection, available in a variety of flavors to suit any palate."
+Matcha Latte,Peets,,,,,0,1,0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwBv97lcWHquRg10Gaeh6p3WKGILtLkkzkXA&s,"Whisked matcha green tea blended with steamed milk, delivering a rich, creamy drink packed with antioxidants."
+Chai Latte,Peets,,,,,0,1,0,"https://peets-shop.imgix.net/products/chai-latte.png?v=1597269392&auto=format,compress&w=540","Spiced chai tea mixed with steamed milk, creating a warming, aromatic beverage that’s perfect for cozy moments."
+Hot Cocoa,Peets,,,,,0,1,0,"https://peets-shop.imgix.net/files/24RET_Fall_Digital_Food___Bev_1266x1492_Fiery_Mocha.png?v=1723762458&auto=format,compress&w=2160","Rich hot cocoa made with chocolate and steamed milk, offering a sweet and comforting drink for chocolate lovers."
+Cold Brew,Peets,,,,,1,1,1,"https://peets-shop.imgix.net/products/cold-brew-iced-coffee.png?v=1597269387&auto=format,compress&w=2160","Smooth cold brew coffee, steeped for hours for a rich, bold flavor, perfect for a refreshing pick-me-up."
+Nitro Cold Brew,Peets,,,,,1,1,1,https://cdn.shopify.com/s/files/1/0319/0764/3436/products/nitro-cold-brew.png?v=1597269388,"Cold brew infused with nitrogen for a creamy, frothy texture, offering a unique twist on classic cold coffee."
+Cold Brew Oat Latte,Peets,,,,,0,1,0,"https://peets-shop.imgix.net/files/24RET_Fall_Digital_Food___Bev_1266x1492_Firey_Iced_Mocha.png?v=1723761921&auto=format,compress","Cold brew coffee blended with oat milk, creating a smooth, creamy drink that’s dairy-free and delicious."
+Horchata Cold Brew Oat Latte,Peets,,,,,0,1,0,https://www.peets.com/cdn/shop/products/horchata-cold-brew-oat-latte.png?v=1597269390//www.peets.com/cdn/shop/products/horchata-cold-brew-oat-latte.png?v=1597269390&w=1080,"Cold brew coffee with oat milk and horchata flavors, offering a refreshing and spiced coffee experience."
+Black Tie,Peets,,,,,0,1,0,https://www.peets.com/cdn/shop/products/black-tie.png?v=1597269387//www.peets.com/cdn/shop/products/black-tie.png?v=1597269387&w=1080,"Delightful blend of espresso and steamed milk with chocolate and vanilla flavors, delivering a rich and indulgent drink."
+Iced Latte,Peets,,,,,0,1,0,"https://peets-shop.imgix.net/products/iced-latte.png?v=1597269390&auto=format,compress&w=540","Chilled espresso drink with cold milk over ice, creating a refreshing coffee experience perfect for warm days."
+Iced Vanilla Latte,Peets,,,,,0,1,0,"https://peets-shop.imgix.net/products/iced-vanilla-latte.png?v=1597269391&auto=format,compress&w=540","Iced drink with espresso, cold milk, and vanilla syrup, delivering a creamy and sweet coffee experience over ice."
+Iced Mocha,Peets,,,,,0,1,0,"https://peets-shop.imgix.net/products/iced-caffe-mocha.png?v=1597269393&auto=format,compress&w=540","Chilled espresso drink blended with chocolate and served over ice, perfect for those who love mocha flavors."
+Mocha Frappé,Peets,,,,,0,1,0,https://www.peets.com/cdn/shop/products/mocha-blended-iced_4a68ef2a-fc4d-46a4-9d56-caf25adc065f.png?v=1622071618//www.peets.com/cdn/shop/products/mocha-blended-iced_4a68ef2a-fc4d-46a4-9d56-caf25adc065f.png?v=1622071618&w=1080,"Creamy frappé made with coffee, milk, and ice, topped with whipped cream for a delicious frozen treat."
+Caramel Frappé,Peets,,,,,0,1,0,https://www.peets.com/cdn/shop/products/caramel-blended-iced_fe4adba1-db6a-4c3b-9fe4-655cc68d5482.png?v=1622071311//www.peets.com/cdn/shop/products/caramel-blended-iced_fe4adba1-db6a-4c3b-9fe4-655cc68d5482.png?v=1622071311&w=1080,"Sweet and creamy frappé made with coffee, milk, and caramel, providing a delightful dessert-like coffee experience."
+Iced Tea,Peets,,,,,1,1,1,"https://peets-shop.imgix.net/files/24SUMMER-MOA-Sparkling_Black_Tea_Passion_Fruit-PDP-Page-Origin-1266x1492.png?v=1717529682&auto=format,compress&w=2160","Refreshing iced tea, available in various flavors, offering a light and revitalizing beverage for warm days."
+Iced Tea Lemonade,Peets,,,,,0,1,0,https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peets.com%2Fproducts%2Ficed-black-tea-lemonade&psig=AOvVaw0yhH3YOXSCH9aSUbk0qk5w&ust=1729896760663000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiSvOONqIkDFQAAAAAdAAAAABAY,"Iced tea mixed with lemonade, creating a refreshing and tangy drink perfect for quenching thirst on hot days."
+Strawberry Lemon Tea Shaker,Peets,,,,,0,1,0,https://www.peets.com/products/strawberry-lemon-tea-shaker-with-brown-sugar-jelly,"Vibrant strawberry lemonade shaken with iced tea, providing a fruity and refreshing beverage for summer sipping."
+Iced Chai Latte,Peets,,,,,0,1,0,"https://peets-shop.imgix.net/products/iced-chai-latte.png?v=1597269392&auto=format,compress&w=540","Iced drink featuring spiced chai, blended with milk for a cool, creamy take on a classic favorite."
+Iced Matcha Latte,Peets,,,,,0,1,0,"https://peets-shop.imgix.net/products/iced-matcha-green-tea-latte.png?v=1597269392&auto=format,compress&w=540","Iced drink made with matcha green tea and milk, delivering a refreshing, energizing beverage with unique flavor."
+Matcha Frappé,Peets,,,,,0,1,0,"https://peets-shop.imgix.net/products/matcha-blended-iced_870255cd-b0e1-4a4e-8340-a7b80961274c.png?v=1622071537&auto=format,compress&w=540","Creamy frappé made with matcha green tea and ice, offering a delicious and refreshing treat for matcha lovers."
+Almond Milk,Peets,,,,,1,1,0,https://nutritionrefined.com/wp-content/uploads/2016/11/almond-milk-recipe-nutrition-refined.jpg,"Creamy almond milk option, perfect for adding a nutty flavor to your favorite coffee or tea drinks."
+Oat Milk,Peets,,,,,1,1,0,https://www.znaturalfoods.com/cdn-cgi/image/width=828/https://www.znaturalfoods.com/api/proxy?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0294%2F1134%2F4521%2Ffiles%2FOat-Milk-Powder-Organic-Milk-Z-Natural-Foods-7.jpg%3Fv%3D1720729872,"Smooth oat milk, offering a dairy-free alternative for coffee drinks, providing creaminess without overpowering flavors."
+Ripple Barista Milk,Peets,,,,,0,1,0,https://rankiq-prod.s3.us-east-2.amazonaws.com/ca5d752a-733f-44c4-bcc0-253770bdeaa4,"Plant-based milk option designed for baristas, perfect for creating creamy drinks that foam beautifully."
+Chicory Syrup,Peets,,,,,0,1,0,https://www.shantitea.ca/images/blog-images/86159/chicory-syrup__large.png,"Sweet chicory syrup, adding a unique, caramel-like flavor to your favorite coffee beverages."
+Coconut Syrup,Peets,,,,,0,1,0,https://m.media-amazon.com/images/I/51XAiQW86zL.jpg,"Coconut syrup, perfect for adding a tropical twist to coffee and desserts with a sweet coconut flavor."
+Hazelnut Syrup,Peets,,,,,0,1,0,https://www.readingcoffee.com/cdn/shop/products/Monin_Hazelnut_Syrup.jpg?v=1711589643,"Rich hazelnut syrup, providing a nutty and sweet flavor to enhance any coffee drink."
+Honey,Peets,,,,,0,1,0,https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/1/9/0/hatk_honey-pot_s4x3.jpg.rend.hgtvcom.1280.1280.suffix/1371603793161.jpeg,"Natural sweetener, perfect for drizzling into coffee or tea for a touch of sweetness."
+Vanilla Syrup,Peets,,,,,0,1,0,https://m.media-amazon.com/images/I/61OgdyAb2IL.jpg,Sweet vanilla syrup that adds a delightful flavor to coffee drinks and desserts alike.
+Caramel Sauce,Peets,,,,,0,1,0,https://www.twopeasandtheirpod.com/wp-content/uploads/2023/02/Salted-Caramel-Sauce-0728.jpg,"Rich caramel sauce, perfect for drizzling on top of beverages or mixing into your favorite coffee drinks."
+Chocolate Sauce,Peets,,,,,0,1,0,https://www.naturaldeets.com/wp-content/uploads/2022/08/Copy-of-800x1200-Ascent-First-Post-Save-as-Jpeg-18-683x1024.jpg,"Decadent chocolate sauce, ideal for enhancing coffee drinks and desserts with rich chocolate flavor."
+White Chotolate Sauce,Peets,,,,,0,1,0,https://coffeecopycat.com/wp-content/uploads/2023/07/WhiteMochaSauce2-1200x1600-1.jpg,"Sweet white chocolate sauce, perfect for drizzling over coffee beverages for an indulgent touch."
+Whipped Cream,Peets,,,,,0,1,0,https://www.errenskitchen.com/wp-content/uploads/2018/07/Untitled-design-35.jpg,"Light and fluffy whipped cream, ideal for topping off your favorite drinks and desserts."
+Cheese and Herb Bagel,Peets,,,,,0,1,0,https://cookingwithkarli.com/wp-content/uploads/2024/02/italian-herbs-and-cheese-bagels-7.jpg,"Savory bagel topped with a blend of cheese and herbs, offering a flavorful bite alongside coffee."
+Everything Bagel,Peets,,,,,1,1,0,https://media.istockphoto.com/id/1054864282/photo/bagel-with-poppy-seeds-directly-above.jpg?s=612x612&w=0&k=20&c=XQFvcw5ZpioZJE5n4OdaMD4NER1shOLelnygiTNl2wc=,"Classic bagel with a variety of spices, providing a delicious, crunchy option perfect for breakfast."
+French Toast Bagel,Peets,,,,,0,1,0,https://www.gosoftstuff.com/web/image/product.template/25591/image_1024?unique=28699b9,"Sweet bagel reminiscent of French toast, offering a delightful twist to a breakfast favorite."
+Plain Bagel,Peets,,,,,1,1,0,https://media.istockphoto.com/id/1297070061/vector/bagel-plain.jpg?s=612x612&w=0&k=20&c=MQBY95AF7IA7y1Zd0cllEeIrQEX1zlP7MovgOiavTKA=,"Simple yet delicious plain bagel, perfect for pairing with any spread or enjoying on its own."
+Bacon,Peets,,,,,0,0,0,https://w7.pngwing.com/pngs/821/54/png-transparent-three-cooked-bacons-bacon-hamburger-steak-bacon-food-recipe-steak-thumbnail.png,"Crispy bacon strips, providing a savory addition to any breakfast or sandwich."
+Ham,Peets,,,,,0,0,0,https://www.pngplay.com/wp-content/uploads/7/Ham-Meat-PNG-HD-Quality.png,"Savory ham slices, perfect for adding protein to breakfast sandwiches or bagels."
+Turkey,Peets,,,,,0,0,0,https://image.similarpng.com/thumbnail/2022/03/Sliced-smoked-ham-isolated-on-transparent-background-PNG.png,"Tender turkey slices, offering a lean protein option for sandwiches or breakfast wraps."
+Cheddar Cheese,Peets,,,,,0,1,0,https://media.istockphoto.com/id/685847528/photo/the-cheddar-cheese.jpg?s=612x612&w=0&k=20&c=Lbb43nm24etYjKluClNcOiLReiIgRQ46rDV4Luhoo0c=,"Sharp cheddar cheese, perfect for melting on bagels or adding to savory breakfast dishes."
+Pepper Jack,Peets,,,,,0,1,0,"https://res.cloudinary.com/perkchops/image/upload/c_scale,w_350/v1600286665/ingredients/2020816234/pfigkduzlajidiarnc5o.png","Spicy pepper jack cheese, providing a flavorful kick to sandwiches and bagels alike."
+Provolone,Peets,,,,,0,1,0,https://images.albertsons-media.com/is/image/ABS/960152626?$ng-ecom-pdp-desktop$&defaultImage=Not_Available,"Creamy provolone cheese, ideal for layering in sandwiches or melting on warm bagels."
+Swiss,Peets,,,,,0,1,0,https://images.albertsons-media.com/is/image/ABS/970053056?$ng-ecom-pdp-desktop$&defaultImage=Not_Available,"Mild Swiss cheese, perfect for adding a rich flavor to sandwiches or breakfast options."
+Sparkling Lemonade,Peets,,,,,1,1,0,https://www.peets.com/cdn/shop/files/24SUMMER-MOA-Sparkling_Lemonade-PDP-Page-Origin-1266x1492.png?v=1717530358//www.peets.com/cdn/shop/files/24SUMMER-MOA-Sparkling_Lemonade-PDP-Page-Origin-1266x1492.png?v=1717530358&w=1080,"Refreshing sparkling lemonade, offering a bubbly and citrusy drink for hot days."
+Sparkling Grapefruit Cold Brew,Peets,,,,,0,1,0,"https://peets-shop.imgix.net/files/24SUMMER-MOA-Sparkling_Grapefruit-Cold-Brew-PDP-Page-Origin-1266x1492.png?v=1717528954&auto=format,compress&w=540","Sparkling grapefruit cold brew, combining the smoothness of cold brew coffee with refreshing grapefruit flavor."
+Sparkling Passion Fruit Black Tea,Peets,,,,,0,1,0,"https://peets-shop.imgix.net/files/24SUMMER-MOA-Sparkling_Black_Tea_Passion_Fruit-PDP-Page-Origin-1266x1492.png?v=1717529682&auto=format,compress&w=540","Bubbly passion fruit black tea, providing a vibrant and fruity drink perfect for a refreshing afternoon pick-me-up."
+Scrambled Eggs,Knollcrest,1,0,0,Breakfast,0,0,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_5f578ac6-dc5a-48a3-8a21-e48ce7871975_Scrambled-Eggs.jpg,"Classic scrambled eggs, light and fluffy, perfect with toast or bacon and a simple go-to breakfast for a protein-packed start."
+Southern Scramble,Knollcrest,1,0,0,Breakfast,0,0,0,https://irepo.primecp.com/2017/02/317698/One-Skillet-Southern-Scramble_Large400_ID-2082475.jpg?v=2082475,"Southern-style scrambled eggs, packed with savory seasonings, bell peppers, and sausage bits for a hearty, comforting breakfast option with a touch of spice."
+Western Hashbrown Skillet,Knollcrest,1,0,0,Breakfast,0,0,0,https://www.thecountrycook.net/wp-content/uploads/2014/03/Cowboy-Hash-Brown-Casserole-Skillet.jpg,"Hearty hashbrowns topped with seasoned vegetables and sausage for a satisfying skillet that offers a warm, filling meal for breakfast or brunch."
+Smoked Sausage,Knollcrest,1,0,0,Breakfast,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_6b127dc5-94aa-4faa-ab5f-f76776d0a443_Sausage_Ropes_1200x500.jpg,"Smoky, savory sausage links with a golden, crispy exterior, making a perfect addition to any breakfast plate alongside eggs and toast."
+Apple Strudel Bites,Knollcrest,1,0,0,Breakfast,0,0,0,https://www.kroger.com/product/images/large/front/0004157300374,"Delicate apple strudel bites, flaky and buttery with a sweet apple filling, great for breakfast or as a quick pastry snack."
+Chicken Sausage Links,Knollcrest,1,0,0,Breakfast,0,0,0,https://s3.amazonaws.com/grazecart/elmrunfarms/images/1586377765_5e8e3425a0906.jpg,"Juicy chicken sausage links, lightly seasoned with herbs, providing a healthier alternative to traditional pork sausage without sacrificing flavor."
+Shrimp and Grits,Knollcrest,1,0,0,Breakfast,0,0,0,"https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2023-11-shrimp-and-grits%2FShrimp-and-grits-2","Classic Southern shrimp and creamy, buttery grits, featuring fresh shrimp cooked with just the right seasoning, perfect for brunch or lunch."
+Plant Based Breakfast Sausage Links,Knollcrest,1,0,0,Breakfast,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_738d21b1-cee6-4366-9958-089c4b1c606e_098A3E60-6FD3-4C01-B48E-E10653D86BD4-1152x1536.jpeg,"Plant-based breakfast sausage links with a surprisingly meaty texture and seasoned to perfection for a satisfying, healthier protein option in the morning."
+Oatmeal,Knollcrest,1,0,0,Breakfast,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_ad5e6926-620f-40a8-a4d2-bf17ecf56b9d_images%20(3).jpg,"Warm, creamy oatmeal that pairs well with a variety of toppings, from fresh fruits to nuts and honey for extra flavor and texture."
+Garlic Rosemary Potatoes,Knollcrest,1,0,0,Breakfast,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_2cc69da0-7b89-458f-8049-d676a3d0ffbe_Rosemary-Potatoes-2-1-of-1-1536x1097.jpg,"Golden roasted potatoes with a fragrant mix of garlic and rosemary, crispy on the outside and soft within, perfect as a savory side."
+Ham Steaks,Knollcrest,1,0,0,Breakfast,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_e264df6c-05bf-4d61-b5ba-88657715fc2b_ham.PNG,"Thick-cut, juicy ham steaks with a slightly sweet, savory flavor; great for breakfast or lunch paired with eggs or potatoes."
+"Spinach, Bacon, Feta Scramble",Knollcrest,1,0,0,Breakfast,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_d5779187-fa89-4ecd-86d9-ff29a28565a9_spinach_feta_cheese_eggs-772x1030.jpg,"Scrambled eggs mixed with fresh spinach, crispy bacon, and crumbled feta for a flavorful, protein-rich option with Mediterranean flair."
+Strawberry French Toast Bake,Knollcrest,1,0,0,Breakfast,0,0,0,"https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2Farchive%2F145c3b5666b64007fbfba8fa25bfcf94db1cf000","Sweet and fluffy French toast bake with juicy strawberries, making a perfect balance of breakfast flavors for a satisfying start to the day."
+Lemon Berry Oatmeal,Knollcrest,1,0,0,Breakfast,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_b7602d98-cd25-4723-8961-f4b22fb22c53_Lemon-Blueberry-Oatmeal.jpg,"Hearty oatmeal infused with fresh berries and a hint of lemon zest for a tangy, refreshing twist on a classic breakfast option."
+Hashbrowns,Knollcrest,1,0,0,Breakfast,0,1,1,https://cheatdaydesign.com/wp-content/uploads/2022/01/Air-Fryer-Hashbrowns-Recipe-720x720.jpg,"Classic hashbrowns fried to a golden, crispy finish, ideal as a breakfast side or as the base for a skillet meal."
+Chicken Sausage Patties,Knollcrest,1,0,0,Breakfast,0,0,0,https://d2gtpjxvvd720b.cloudfront.net/system/newsletter_item/social_image/1444/default_Maple-Chicken-Sausage-Patties-FS-20200309-1539-13134-8354.jpg,"Spicy chicken sausage patties with a juicy texture, seasoned with herbs and spices for a tasty twist on the classic breakfast sausage."
+Three Cheese Grilled Cheese,Knollcrest,0,1,0,Lunch,0,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_843cc30c-f516-43f4-a5e4-d0f30fca6f67_Grilled-Cheese-Sandwich-SQ.jpg,"Golden, buttery grilled cheese sandwich with a rich blend of three cheeses melted to perfection between crisp, toasted slices of bread."
+Tomato Bisque,Knollcrest,0,1,0,Lunch,0,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_26f5853d-4048-4d65-8ca7-7d9962d529b7_Tomato-Bisque-2.jpg,"Rich, smooth tomato bisque made with a blend of tomatoes and herbs, offering a warm, comforting soup with a velvety texture."
+Plant Based Grilled Cheese,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_42d2c2b2-5ef1-4978-929c-23850c0dd169_gluten-free-vegan-grilled-cheese.jpg,"Golden-brown plant-based grilled cheese with a deliciously crispy crust and a savory, gooey plant-based cheese filling that’s flavorful and satisfying."
+Grilled Turkey and Cheese,Knollcrest,0,1,0,Lunch,0,0,0,https://www.allrecipes.com/thmb/Gu9I7N88IyH3aFygY51mCH8jZ6o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/65663-Grilled-Hot-Turkey-Sandwiches-DDMFS-30-4x3-d08cf3507ec1484dbc03d8486f4aca24.jpg,"Classic grilled turkey and cheese sandwich with layers of savory turkey and melted cheese between toasted bread, perfect for a quick lunch."
+French Fries,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/Others_1c33cfe4-d588-47f9-82cc-e637ee892feb_403b4bae2673966f359f17ba6d0b1e6cb4df6679.jpg,"Crispy, golden French fries lightly salted and deliciously crunchy, making a classic side dish or snack anytime."
+Roasted Asparagus,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/Others_5af48f95-7e3f-4b33-a63e-0e649927669c_Roasted-Asparagus-blog.jpg,"Fresh roasted asparagus spears lightly seasoned and oven-crisped to bring out their natural flavors; a nutritious, green veggie option."
+Country Fried Steak,Knollcrest,0,1,0,Lunch,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_13b181dc-57c2-4e62-a05c-e007f7a487d2_Copycat-Cracker-Barrel-Country-Fried-Steak-Recipe-How-to-Make-It-Not-Entirely-Average-Pic-40.jpg,"Golden country-fried steak, breaded and fried to perfection with a rich, peppery gravy, making for a hearty Southern-inspired meal."
+Vegan Stuffed Peppers,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_4235db11-dee8-461e-be0d-bc77a2f658ca_vegan-stuffed-peppers-3.jpg,"Vegan stuffed peppers with a savory filling of seasoned vegetables, ideal for a satisfying plant-based option packed with flavor and nutrients."
+Red Skin Mashed Potatoes,Knollcrest,0,1,0,Lunch,0,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_a6112dda-50de-4612-8dff-76f91c1e4d88_Mashed-Red-Potatoes-photographed-from-above-featured.jpg,"Creamy mashed red-skinned potatoes, whipped to perfection and infused with a hint of butter, making a classic comfort side dish."
+Buttered Corn,Knollcrest,0,1,0,Lunch,0,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_b17fa55c-85a5-403a-86b1-4af44878d1c1_buttered-corn-3.jpg,"Simple, buttery corn kernels cooked to preserve their natural sweetness, creating a light and flavorful vegetable side that complements many main dishes."
+Parmesan Roasted Cauliflower,Knollcrest,0,1,0,Lunch,0,1,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_28c2dd8e-9bae-4a89-b3c7-27c0f4bf2605_Garlic-Parmesan-Roasted-Cauliflower-3.jpg,"Roasted cauliflower with Parmesan cheese, giving each piece a crispy, cheesy edge, adding flavor to this healthy, veggie-packed side."
+Pot Roast,Knollcrest,0,1,0,Lunch,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_416228b7-0cab-4f5c-b4c7-085953857b9e_1200-Pot-Roast-Chuck-Roast-SpendWithPennies-8-2.jpg,"Tender, slow-cooked pot roast simmered with aromatic herbs and spices for a classic, flavorful entrée perfect for a hearty meal."
+Beef Tips with Mushroom Gravy,Knollcrest,0,1,0,Lunch,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_c2c41f06-c53b-4a48-be65-6ba9cd12a2c1_beef-tips-4-500x500.jpg,"Tender beef tips cooked in a savory mushroom gravy, creating a deliciously rich dish that pairs well with mashed potatoes or rice."
+Sweet Peas,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_7091abb1-c70d-444e-9470-340e6727713e_Top-view-How-to-Cook-Frozen-Peas-375x288.jpg,"Lightly steamed sweet peas with a subtle sweetness and a bright green color, offering a fresh and nutritious side to any meal."
+Garlic Butter Sweet Rolls,Knollcrest,0,1,0,Lunch,0,1,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_2f8d2135-3c22-426d-85d1-4e94d466003b_images%20(2).jpg,"Soft, buttery sweet rolls brushed with garlic butter, baked to a golden brown, perfect for sopping up savory sauces or as a snack."
+Fresh Fruit Salad,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_01de5707-54de-4d07-9481-21d365a5b9c7_Fruit%20Salad.jpg,"Fresh fruit salad with a colorful mix of seasonal fruits, offering a naturally sweet and refreshing option for breakfast, lunch, or dessert."
+Ranch Pasta Salad,Knollcrest,0,1,0,Lunch,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_e081a18c-7f6d-47ab-babd-d6e22bce2402_creamy-ranch-pasta-salad-overhead.jpg,"Zesty pasta salad with fresh vegetables and a hint of ranch dressing, perfect for a light side or picnic dish."
+Zesty Quinoa Salad,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_2f274ac3-81b7-4558-ba05-e06ba186ab46_229156-Zesty-Quinoa-Salad-ddmps-1x1-104424-9d328e4b968242af81205fa567d3a282.jpg,"Quinoa salad with fresh vegetables and a tangy vinaigrette dressing, providing a protein-packed and flavorful option for health-conscious diners."
+Grilled Corn Salad with Avocado,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_1b5a7600-6632-4310-ae70-451446120231_Grilled-Corn-Avocado-Salad-Recipe.jpg,"Grilled corn and creamy avocado come together in this refreshing salad, bringing a taste of summer to any meal."
+Three Bean Salad,Knollcrest,0,1,0,Lunch,1,1,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_feddfe75-5ed1-4069-9ffa-e92921fad588_9-1.jpg,"Protein-rich three-bean salad with a light dressing, featuring kidney, black, and garbanzo beans for a nutritious and satisfying side."
+Roasted Vegetable Couscous Salad,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_7345d5b9-97ca-42b0-a572-7c425b087867_lemon-tahini-roasted-vegetable-couscous1-1229x1536.jpg,"Warm couscous salad with roasted vegetables, adding a savory, nutty flavor perfect as a side or light main dish."
+Warm Wild Rice and Roasted Root Vegetable Salad,Knollcrest,0,1,0,Lunch,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_4e712eef-f2dc-49c4-af23-749f180f691c_download.jpg,"Earthy wild rice with roasted root vegetables, seasoned with herbs for a hearty, warm salad ideal for fall or winter meals."
+Jalapeño Pepper Macaroni Salad,Knollcrest,0,1,0,Lunch,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_200b52a5-b6e5-4b54-b868-fe7a199a284a_jalapeno-popper-pasta-salad-recipe-2-1024x1536.jpg,"Classic macaroni salad with a twist, adding spicy jalapeños for a bit of heat to complement the creamy texture."
+Cucumber Tomato Salad,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_794e3ea7-2ba8-41bd-aaff-c729f7ce054e_Israeli-Salad202230-180x180.jpg,"Light and refreshing cucumber tomato salad with a simple vinaigrette, highlighting fresh vegetables as a tasty, crisp side."
+Lemon Dijon Potato Salad,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_58eab0f6-0058-4067-80ce-5ff1fdf61efe_French-Potato-Salad-Recipe-No-Mayo-1-1.jpg,"Lemon Dijon potato salad with a tangy dressing, combining creamy potatoes with bright flavors for a refreshing twist on the classic."
+Mediterranean Couscous Salad,Knollcrest,0,1,0,Lunch,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_23807abd-fccf-491c-b4d3-d2ef42284920_couscous-salad-5.jpg,"Mediterranean couscous salad with a mix of fresh veggies, olives, and a zesty dressing, offering a light, flavorful side or main."
+Sangria Fruit Salad,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_2b7fd7fa-3a6d-4379-9b21-49344f66a2fa_c80694a7add7d20ccf8b2c826b012afa_640m.jpg,"Fruit salad with a hint of sangria flavor, bringing together fresh fruits with a touch of sweetness for a tropical twist."
+Broccoli Salad,Knollcrest,0,1,0,Lunch,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_06955248-97df-43ab-af29-99ede3f40f5f_Broccoli-Salad-with-bacon-1-of-1-6.jpg,"Broccoli salad with a creamy dressing and crunchy bits, making for a tasty vegetable side with a fresh, crispy texture."
+Chicken Caesar Salad,Knollcrest,0,1,0,Lunch,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_76b73084-0035-4d54-adc4-11dde8834351_Caesar%20Salad%20with%20Tomatoes.jpg,"Classic Caesar salad with grilled chicken, crunchy romaine, Parmesan, and croutons for a protein-packed, delicious, and fresh salad option."
+Tropical Spinach Salad,Knollcrest,0,1,0,Lunch,1,1,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_326ede67-5479-4fe4-b235-d3d1e3a68d01_mandarin-orange-salad.jpg,"Spinach salad with tropical fruits and a light dressing, offering a bright, sweet flavor that complements the tender spinach."
+Carbanara Salad,Knollcrest,0,1,0,Lunch,1,1,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_d6d37a86-269b-4154-bfc7-7eb3dc5642fe_orecchiette-with-peas-pancetta-and-cream.jpg,"Pasta salad with creamy carbonara sauce, bringing together rich cheese and crispy bacon for a comforting, savory option."
+Vegan Niçoise Salad,Knollcrest,0,1,0,Lunch,1,1,1,https://frommybowl.com/wp-content/uploads/2021/05/Sheet-Pan_Vegan_Nic%CC%A7oise_Salad_FromMyBowl-10-scaled.jpg,"Vegan Niçoise salad with fresh veggies, olives, and a light dressing, offering a balanced, flavorful choice for plant-based diners."
+Strawberry Chicken Salad,Knollcrest,0,1,0,Lunch,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_ffdb1a4a-ced9-44a4-a3ec-174d6ba9f6a2_strawberrysalad-1-300x300.jpg,"Tender chicken salad with strawberries and a touch of sweetness in the dressing, making a unique and flavorful twist on classic salads."
+Bistro Pasta Salad,Knollcrest,0,1,0,Lunch,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_446d6d82-a063-4ecf-8ee0-de9af1e9d235_Easy-Macaroni-Salad-Recipe-1-of-1-23.jpg,"Classic pasta salad with a variety of fresh ingredients and Italian flavors, perfect for a light yet satisfying side."
+Cucumber Onion Quinoa Salad,Knollcrest,0,1,0,Lunch,1,0,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_178e2eca-c969-42aa-bcdc-c5e9611501a2_go-to-quinoa-salad-recipe.jpg,"Refreshing quinoa salad with cucumber and onion, adding crunch and flavor to this healthy, protein-packed option."
+Curry Chicken Salad,Knollcrest,0,1,0,Lunch,0,0,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_33e02a88-15fc-460d-bf13-32d48ae5d3e0_j.jpg,"Curry chicken salad with a blend of spices and creamy dressing, providing a bold, flavorful twist on traditional chicken salad."
+Taqueria Pulled Chicken,Knollcrest,0,1,0,Lunch,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_c243cc9e-c02d-4697-94e1-4fb0a4891fe8_Smoky-Mexican-Pulled-Chicken-4.jpg,"Pulled chicken seasoned with Mexican spices, ideal for tacos, burritos, or as a filling for a flavorful, protein-rich meal."
+Taqueria Beef,Knollcrest,0,1,0,Lunch,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_bcc69b92-501f-4700-afb4-e03ef558d340_Taco-Seasoned-Beef-1200-3289.jpg,"Seasoned beef cooked to perfection with taco spices, perfect for building a tasty taco or burrito bowl."
+Cilantro Lime Rice,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_70dccdbe-34fc-4b56-858d-6eba8457aa3d_cilantro-lime-rice-13.jpg,"Cilantro lime rice with a zesty flavor, perfect as a base or side for Mexican-inspired dishes."
+Brown Rice,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_e7f86739-36a1-43b1-9721-a2e8ee444b55_00705044054230_0q6fjop7byufvack.jpg,"Nutty brown rice, hearty and versatile as a base for main dishes or a side to complete your meal."
+Taqueria Black Beans,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_36450a55-6f3d-461d-a5d4-0169efc4a9f6_Quick-Seasoned-Black-Beans-finished-500x500.jpg,"Classic black beans seasoned with spices for a rich, smoky flavor, perfect for burritos, bowls, or as a protein-packed side."
+Refried Beans,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_b37856f4-e246-449d-93b4-fe4eb357374d_vegan-refried-beans-1.jpg,"Smooth and creamy refried beans, providing a delicious and satisfying base or side for Mexican-inspired meals."
+Taqueria Peppers and Onions,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_23ee2f9d-f004-4fd1-a9b5-8b0acd78c217_peppers.jpg,"Lightly sautéed peppers and onions for a colorful, tasty taco topping or side with a bit of crunch."
+Taqueria Queso,Knollcrest,0,1,0,Lunch,0,1,0,https://barefeetinthekitchen.com/wp-content/uploads/2015/04/Queso-Blanco-9-1-of-1.jpg,"Rich and creamy melted queso, perfect for dipping or topping nachos, burritos, or as a decadent snack."
+Taqueria Tortilla Chips,Knollcrest,0,1,0,Lunch,1,1,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_961a44bb-0b8e-49f4-8bf0-9a4e26602aa2_torilla-chips-fried-1615217244.jpeg,"Crispy, salty tortilla chips, perfect for dipping in salsa, guacamole, or enjoying on their own as a crunchy snack."
+Shawarma Spiced Chicken,Knollcrest,0,1,0,Lunch,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_e357b45e-ce89-4eff-8456-085173100d36_Grilled2BChicken2BShawarma2B12002B3172-min.jpg,"Juicy shawarma-spiced chicken, cooked to perfection with Middle Eastern-inspired spices for a flavorful addition to bowls or wraps."
+Tandoori Spiced Chickpeas,Knollcrest,0,1,0,Lunch,1,1,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_b204f7ac-6fa9-4c44-8a31-dd55d22be7ca_IMG_9168.jpg,"Roasted chickpeas seasoned with tandoori spices, creating a savory, satisfying plant-based protein option with a bit of heat."
+Harissa Eggplant,Knollcrest,0,1,0,Lunch,0,0,0,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy6kpu4wQRkxIg82IuoJpaXe7KDxMAHnPQfA&s,"Savory eggplant with a bold harissa flavor, perfect as a spicy side or as part of a plant-based entrée."
+Chicken Pad Thai,Knollcrest,0,1,0,Lunch,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_fb3d12b6-e5a2-4e59-847d-8ad207f70f5a_pad-thai-6-768x1152.jpg,"Classic chicken pad Thai with rice noodles, featuring tender chicken, peanuts, and a tangy sauce with a hint of sweetness."
+Marinated Thai Tofu,Knollcrest,0,1,0,Lunch,1,1,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_e679e514-22a6-4ab4-a005-dad37844e344_best-marinated-tofu-recipe.jpg,"Tofu marinated in Thai spices and cooked to perfection, ideal as a plant-based protein with a rich flavor and firm texture."
+Vegetable Spring Rolls,Knollcrest,0,1,0,Lunch,1,1,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_6e487be1-13a8-4134-96a2-1e17fae38ded_Spring-Rolls-5.jpg,"Crispy vegetable spring rolls filled with a mix of veggies, perfect for dipping in sweet chili or soy sauce."
+Cheese Pizza,Knollcrest,0,1,0,Lunch,0,1,0,https://csmtliveapi.culinarysuite.com/Uploads/Others_36953fa2-6a9d-4d3b-95ba-f6c57586c51b_Screenshot%202024-01-04%20154141.png,"Classic cheese pizza with a crispy crust and gooey cheese, great for pizza lovers who enjoy simple, fresh flavors."
+Pepperoni Pizza,Knollcrest,0,1,0,Lunch,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_91d652b1-f8fa-4ba0-a259-dbf1227205dc_pepperoni-pizza-chilli-dip-parchment-paper-94940296.jpg,"Pepperoni pizza with a crispy crust and spicy, flavorful pepperoni slices, a popular choice for classic pizza lovers."
+Cheese Bread,Knollcrest,0,1,0,Lunch,0,0,0,https://therecipecritic.com/wp-content/uploads/2020/02/cheesy_garlic_bread.jpg,"Warm, cheesy breadsticks with a soft center and crisp edges, served with marinara for a satisfying snack."
+BBQ Chicken Pizza,Knollcrest,0,1,0,Lunch,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_0dfa7dc7-cbf6-4d17-ace5-789f05653ecf_Homemade-BBQ-Chicken-Pizza-2.jpg,"BBQ chicken pizza topped with smoky, tangy barbecue sauce, tender chicken, and melted cheese for a sweet and savory pizza twist."
+Breadsticks,Knollcrest,0,1,0,Lunch,0,1,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_20065fd7-18d6-4746-be5d-b89407e16144_Garlic-Breadsticks-11-2-1024x1536.jpg,"Soft breadsticks baked to golden perfection, perfect as a side or snack with a marinara dipping sauce."
+Marinara Sauce,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_9540f779-86c5-46e8-9df7-83d6d795d9ec_marinara-view-1.jpg,"Rich and tangy marinara sauce, great for dipping breadsticks, topping pasta, or as a base for Italian-inspired dishes."
+Rotini Pasta,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/Others_6cede603-f0a5-4838-8406-94d9e77c19fe_download%20(11).jpg,"Twisty rotini pasta that’s great with any sauce, perfect for holding flavors in each curl of the noodles."
+Chipotle Romesco,Knollcrest,0,1,0,Lunch,1,1,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_ceb0fea2-4823-4747-ac1b-3e167a91f7b1_s.jpg,"Smoky chipotle romesco sauce with a touch of spice, making a bold addition to pasta, tacos, or as a sandwich spread."
+Pesto Chicken Pizza,Knollcrest,0,1,0,Lunch,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_51b1fa63-ad03-48ac-bc4b-2a73708f7c73_Chicken%20Pesto%20and%20Roasted%20Red%20Pepper%20Pizza.jpg,"Pizza topped with fresh pesto and grilled chicken, combining creamy and savory flavors for a satisfying slice."
+Assorted Cookies,Knollcrest,0,1,0,Lunch,0,1,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_cea740cb-0650-4e76-ac56-d69a367b644d_cookies-660x413.jpg,"Assorted cookies with a variety of flavors, from chocolate chip to oatmeal raisin, offering a sweet treat for any time of day."
+Brown Sugar Baked Chicken Breast,Knollcrest,0,1,0,Lunch,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_f544e9ea-c0e0-42dc-a795-7fb232a728ce_d.jpg,"Baked chicken breast glazed with brown sugar, creating a savory-sweet flavor that’s great as an entrée or sandwich filling."
+Fresh Fruit Salad,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_01de5707-54de-4d07-9481-21d365a5b9c7_Fruit%20Salad.jpg,"Bright and colorful fresh fruit salad with a mix of seasonal fruits, offering a sweet and naturally refreshing side or dessert."
+Spicey Green Beans,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_ad0ae667-af5a-4231-80d9-aaf079247473_1546886479735.jpeg,"Slightly spicy green beans with a hint of heat, providing a fresh, flavorful side dish with a touch of seasoning."
+Home Fries,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_d09ed87f-20fe-4e24-8bfe-706f3a4a998c_german-fried-potatoes-close-up-1.jpg,"Crispy home fries with a golden brown crust, perfect as a breakfast side or with a variety of main dishes."
+English Ham and Pea Salad,Knollcrest,0,1,0,Lunch,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_fa2f03da-f3f8-488f-8d5c-753f4907a8d2_images%20(5).jpg,"English-style ham and pea salad with a creamy dressing, offering a fresh, flavorful twist on traditional potato salad."
+Dijon Maple Pork Tenderloin,Knollcrest,0,1,0,Lunch,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_84cda1c1-06a1-4895-aaba-7603357e89fe_images%20(1).jpg,"Juicy pork tenderloin with a sweet and savory Dijon maple glaze, perfect as a main dish with a hint of tanginess."
+Vegetable Quinoa Pilaf,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_1271d7dc-3a20-4c13-8066-56634890dcc4_veggie-stir-fry-in-a-black-pan.jpg,"Quinoa pilaf mixed with colorful vegetables, providing a light, nutritious option with a nutty, savory flavor."
+Grilled Asparagus,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_3ed022cd-89e3-4037-8ecf-74bbc2574ed7_grilled-asparagus-3.jpg,"Grilled asparagus with a light char, offering a fresh, flavorful vegetable option that’s simple and delicious."
+Fresh Tomato and Arugula Salad,Knollcrest,0,1,0,Lunch,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_7f71602a-f11f-4e7f-943c-f63c6ad9846c_arugula-tomato-salad-ck-x.jpg,"Arugula and tomato salad with a light vinaigrette, offering a fresh, flavorful side with a mix of peppery and sweet tastes."
+Barbeque Ribs,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_455d79df-ceb2-4690-a430-d304c4092983_How-to-Make-Baby-Back-Ribs-square2.jpg,"Tender BBQ ribs coated in a smoky, slightly sweet sauce, ideal for a hearty, flavorful entrée."
+Lentil Sloppy Joes,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_6d4d3154-8f31-4083-ae72-ce5775838147_vegan-sloppy-joe-square-1-2-720x720.jpg,"Plant-based lentil sloppy joes with a tangy, sweet sauce, offering a vegan twist on a classic comfort food."
+Garlic Roasted Brussels Sprouts,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_6a3f912e-1d87-4afe-836e-931ca2c93c35_Balsamic-Brussels-Sprouts-Garlic-The-Live-In-Kitchen-Featured-Image.jpg,"Garlic-roasted Brussels sprouts with a slight crisp and savory flavor, making a delicious, healthy vegetable side."
+Vegetarian Baked Beans,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_962a9e53-10ef-4e37-9602-a91b59137cf0_vegetarian-baked-beans-main-new-1120x630.jpg,"Vegetarian baked beans with a sweet and savory flavor, creating a filling side that pairs well with barbecued meats."
+Potato Wedge Fries,Knollcrest,0,0,1,Dinner,0,0,0,https://amandacooksandstyles.com/wp-content/uploads/2020/07/20200714_183957-1.jpg,"Crispy potato wedge fries with a golden brown crust, great for dipping or as a classic side with burgers and sandwiches."
+Hamburger Buns,Knollcrest,0,0,1,Dinner,1,1,1,https://natashaskitchen.com/wp-content/uploads/2024/05/Burger-Buns-4.jpg,"Soft hamburger buns, lightly toasted and ready for all the fixings, making a great base for any sandwich or burger."
+Southwestern Pork Loin,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_ab87ac8e-46da-4955-b40a-92726a773e5c_Southwestern-Pork-Tenderloin-18.jpg,"Juicy pork loin seasoned with Southwestern spices, creating a tender, flavorful entrée with a bit of heat."
+Cheesy Southwest Chicken,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_3f582250-e014-48d4-9be1-a77ad1b3973c_Southwest-Chicken-Bake-lg-10-1024x1536.jpg,"Southwest-style chicken topped with melted cheese, roasted peppers, and onions for a hearty, flavorful main dish."
+Vegan Southwest Stuffed Peppers,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_aaa7bff1-ccf3-42a2-9b7c-5589e0256533_healthy-recipe-680.jpg,"Vegan stuffed peppers with a Southwest-inspired filling, offering a healthy, plant-based meal option with vibrant flavors."
+Mexican Rice,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_9ba84140-0cfe-4fec-9bcf-cd38c0cb8edb_mexican-rice-social.jpg,"Mexican-style rice with tomatoes and a hint of spice, creating a flavorful side or base for tacos and burrito bowls."
+Grilled Tajin Zucchini Batons,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_c969d86a-70d2-4209-8617-cac84f072357_download%20(2).jpg,"Grilled zucchini sprinkled with Tajin seasoning, adding a tangy, mildly spicy flavor for a unique vegetable side."
+Garlic Roasted Cauliflower,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/Others_933461b8-148a-4dc0-8455-7c44dbf3ea1b_Screenshot%202024-02-01%20163512.png,"Tender cauliflower florets roasted with garlic, offering a savory, aromatic side that enhances any meal."
+Plant Based Chicken Bites,Knollcrest,0,0,1,Dinner,1,1,1,https://simplyceecee.co/wp-content/uploads/2023/12/crispy-crunchy-vegan-chicken-nuggets-1.jpg,"Crispy, breaded plant-based bites that provide a satisfying, protein-rich option for vegan diners."
+Brussel Sprouts with Red Peppers,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_fc9a56b4-49bd-467e-aab6-ebd07a168171_Gfreereshoot-11-1-720x961.jpg,"Roasted Brussels sprouts tossed with vibrant red peppers, delivering a deliciously roasted side packed with flavor."
+Fried Zucchini Sticks,Knollcrest,0,0,1,Dinner,0,0,0,"https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_744,ar_5:4/v1/img/recipes/36/61/48/08wDzNwSxGn1odXRAyUA_zucchini%20fries-2.jpg","Crunchy fried zucchini sticks served with a dipping sauce, making for a tasty, snackable vegetable treat."
+Monterey Chicken,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_86a39ea2-c997-49f0-b6d4-dc63682e0b6a_Monterey-Chicken-SpendWithPennies-5.jpg,"Juicy grilled chicken topped with Monterey Jack cheese, barbecue sauce, and crispy bacon for a flavorful, hearty dish."
+Roasted Corn & Black Bean Stuffed Tomatoes,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_41159c61-7407-466b-a2f5-b699a87ff62b_download%20(2).jpg,"Fresh tomatoes filled with a savory mixture of roasted corn and black beans, providing a colorful, nutritious option."
+Ancho Chili Potatoes,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_03c9a202-ac80-4284-8203-087ecff84000_er.jpg,"Diced potatoes seasoned with ancho chili spices, offering a slightly smoky and flavorful side dish."
+Fajita Vegetables,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_23ee2f9d-f004-4fd1-a9b5-8b0acd78c217_peppers.jpg,"Sautéed bell peppers and onions seasoned like fajitas, providing a colorful, zesty accompaniment to any meal."
+Steamed Green Beans,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_43ce2ba1-fd49-4c60-9a9e-335979142b6a_79bca29263f7981e06070942ab5acafc.jpg,"Crisp-tender green beans lightly steamed to maintain their bright color and fresh flavor, perfect as a side."
+Lemon Pepper Tilapia,Knollcrest,0,0,1,Dinner,0,0,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_b38f0489-0af1-4427-bb89-975f0ac85f9e_til.jpg,"Mild tilapia fillets seasoned with zesty lemon and pepper, offering a light, refreshing seafood option."
+Hot Honey Chicken,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_4195e37b-bff5-45bb-955f-eea82b316e90_Honey-Garlic-Chicken-Breast_7.jpg,"Crispy chicken drizzled with sweet and spicy hot honey, creating a deliciously bold flavor profile."
+Carribean Plant based Chicken with a Mango Salsa,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_081568c4-c0bc-493e-a40f-fa1807f58951_mango-salsa-chicken-3-500x500.jpg,"Flavorful plant-based chicken served with a fresh mango salsa, providing a tropical twist to any meal."
+Chipotle Garlic Roasted Potatoes,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_a4361733-4c1b-4330-a13d-eaa416f06243_chipotle-and-lime-roasted-potatoes.jpg,"Roasted potatoes tossed in a chipotle garlic seasoning, delivering a smoky, savory side dish with a kick."
+Sriracha Lime Roasted Cauliflower,Knollcrest,0,0,1,Dinner,0,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_b6d37587-a1ce-4d19-9bc9-64363e6656eb_Sriracha-Lime-Cauliflower-Tostadas-foodiecrush.com-004.jpg,"Cauliflower roasted with sriracha and lime, combining heat and citrus for a vibrant, tasty vegetable option."
+Ancho Chili Carrots,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_8a0ea130-9a33-4769-aa39-d0c1b3f67a79_ancho%20carrot2.PNG,"Sweet carrots roasted with ancho chili spices, offering a flavorful, slightly spicy side that complements any entrée."
+Orange Chicken Stir-Fry,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_232c3d32-8506-4173-bf47-3a703efd930f_web.jpg,"Tender chicken pieces stir-fried with a tangy orange sauce, providing a sweet and savory flavor experience."
+Yakisoba with Snap Peas,Knollcrest,0,0,1,Dinner,1,1,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_92058849-6ccb-425b-ae2e-5e533e903cf8_sugar-snap-pea-and-carrot-soba-noodles-1-2-768x1152.jpg,"Stir-fried yakisoba noodles tossed with snap peas, creating a colorful, delicious Asian-inspired dish."
+Vegan Mapo Tofu,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_4a728df1-bdc5-467d-bf3d-d2ed277ee496_vegan-mapo-tofu-16.jpg,"Silken tofu cooked in a spicy, aromatic sauce with mushrooms and spices, offering a plant-based twist on a classic dish."
+Lemon Garlic Carrots,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/Others_d039aa2a-402d-46e8-8bda-8bf71c9be4f7_Chaat%20Carrots.jpeg,"Sweet carrots sautéed with lemon and garlic for a bright, zesty flavor that enhances their natural sweetness."
+Vegetable Egg Rolls,Knollcrest,0,0,1,Dinner,0,0,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_57b57c83-034d-4ecc-8d52-6bc70078f604_homemade-eggrolls-3.jpg,"Crispy egg rolls filled with a savory mix of vegetables, perfect for dipping and sharing as an appetizer."
+Kung Pao Brussels,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_b3438a8e-5d93-4a97-9239-c86f22e6d222_Kung%20Pao%20Brussel%20Sprouts%20-%20Completed.jpg,"Brussels sprouts stir-fried in a spicy kung pao sauce with peanuts, offering a deliciously bold, nutty flavor."
+Lentil Loaf,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_4f56a4e7-e09e-447e-8c07-a32e6a188c62_sliced-lentil-loaf-vertical-1-1024x1536.jpg,"Savory lentil loaf baked with herbs and spices, providing a hearty, plant-based alternative to traditional meatloaf."
+Roast Beef with Au Ju,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_6cbf67c5-5cc7-4a1f-994e-9c1c2b82bbae_roastbeef2k.jpg,"Tender roast beef served with a rich au jus, perfect for dipping and adding flavor to every bite."
+Red Skin Masked Potatoes,Knollcrest,0,0,1,Dinner,0,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_a6112dda-50de-4612-8dff-76f91c1e4d88_Mashed-Red-Potatoes-photographed-from-above-featured.jpg,"Creamy mashed potatoes made from red skin potatoes, providing a buttery, comforting side to any meal."
+Sauteed Fresh Vegetables,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_9b957513-16f8-4427-8ea3-aa97456568fe_roasted-green-beans-with-squash-and-tomatoes-3.jpg,"Seasonal vegetables sautéed with garlic and herbs, delivering a colorful and healthy side dish packed with flavor."
+"Roasted Cauliflower, Broccoli, Carrots, Tomatoes",Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_c9fbe24b-9b41-4491-bb6d-1248f985f66a_1371585625224.jpeg,"A medley of roasted vegetables seasoned to perfection, creating a nutritious and flavorful side option."
+Beef Gravy,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_5b0bc124-0c02-47fc-b834-ebd135cf98fc_brown-gravy-6.jpg,"Rich, savory beef gravy perfect for drizzling over mashed potatoes or roast meats for added flavor."
+Jollof Rice,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_33c8ecc8-0ff6-4b93-9c5a-54fd3b4407bc_jollof-rice-recipe-23.jpg,"Flavorful rice cooked with tomatoes and spices, providing a vibrant and aromatic dish often enjoyed in West African cuisine."
+Grilled Curry Spiced Carrots,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_d9c8bfff-41b3-48e1-8bc3-9baf4525cba3_grilled-carrots-102231829.jpg,"Carrots grilled with a blend of curry spices, creating a unique, flavorful side that pairs well with many dishes."
+White Rice,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_b1cdcfff-3fcc-4f1f-afaf-1c4b8503b23e_Hack-Your-Rice-With-Coconut-Oil-Recipe_header.jpg,"Fluffy, steamed white rice that serves as a versatile base for any meal, absorbing flavors beautifully."
+Crab Rangoons,Knollcrest,0,0,1,Dinner,0,0,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_3ed6567d-5532-48d6-985d-53073bdb4521_6694-2.jpg,"Crispy wontons filled with a creamy crab mixture, offering a delightful combination of textures and flavors."
+Spiced Basmati,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_ab9ff22f-f7c2-48f7-840f-51449da52ead_Spiced%20basmati%20rice-2.JPG,"Aromatic basmati rice cooked with spices, delivering a fragrant side that enhances any entrée."
+Indian Naan,Knollcrest,0,0,1,Dinner,0,1,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_e62240d3-050d-4172-a220-8733d386f302_Garlic-Naan-Recipe-IMAGE-71.jpg,"Soft, fluffy naan bread perfect for dipping into curries or enjoying alongside any meal."
+Sesame Ginger Roasted Tofu,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_f2ab5ed8-8d4c-4d38-bab7-f64a8cf7ab9a_download%20(5).jpg,"Tofu marinated in a sesame-ginger sauce, then roasted for a flavorful, protein-packed vegan dish."
+Spicy Ginger Beef Broth,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_c75fdd36-73f3-4576-bfd5-89c26f94a87e_images%20(2).jpg,"Bold beef broth infused with ginger and spices, providing a warming base for soups and stews."
+Shaved Beef,Knollcrest,0,0,1,Dinner,0,0,0,https://www.runningtothekitchen.com/wp-content/uploads/2023/02/shaved-beef-6.jpg,"Thinly sliced beef cooked to perfection, ideal for sandwiches, stir-fries, or as a topping for salads."
+Ramen Noodles,Knollcrest,0,0,1,Dinner,1,1,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_0fcdab1f-1da2-45cc-9a55-3e523d52b933_instant-pot-pho-broth-with-ramen_.jpg,"Classic ramen noodles served in a savory broth, perfect for a comforting, quick meal option."
+Far East Vegetables,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_7501b072-5f90-40c5-8517-dc96f3976f30_Original_2737_11010041.jpg,"A colorful mix of vegetables prepared in a light sauce, offering a fresh and healthy side."
+Vegetable Broth,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_43e58707-d701-4fd9-a558-61a7468f15ff_vegetable-broth-797x1024.jpg,"Light and flavorful vegetable broth, perfect as a base for soups or for sipping on its own."
+Swedish Meatballs,Knollcrest,0,0,1,Dinner,0,0,0,https://images.themodernproper.com/billowy-turkey/production/posts/SwedishMeatballs_12.jpg?w=1200&h=1200&q=60&fm=jpg&fit=crop&dm=1710265756&s=03ea2d064156c05f20c8cb1633b62922,"Tender meatballs served in a creamy gravy, providing a hearty, comforting dish with Scandinavian roots."
+Egg Noodles,Knollcrest,0,0,1,Dinner,0,0,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_c1858337-a388-424a-93df-7dff36ea6cf7_Parmesan-Herbed-Noodles_EXPS_CF2BZ20_27889_B11_15_3b.jpg,"Soft egg noodles perfect for pairing with sauces or in soups, offering a comforting, classic taste."
+Everything Seasoned Asparagus,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_755c5b40-1b79-416c-8322-80f399a99f6c_Everything-Bagel-Seasoning-Roasted-Asparagus-Recipe-1.jpg,"Tender asparagus spears seasoned with an everything bagel blend, offering a flavorful twist on a classic vegetable."
+Cardamom Roasted Sweet Potatoes,Knollcrest,0,0,1,Dinner,0,0,0,https://elainewatkins.com/wp-content/uploads/2018/01/Cardamom-Sweet-Potatoes-0722022-1200-%C3%97-1200-pxs.png,"Sweet potatoes roasted with cardamom, creating a warm, aromatic dish with a hint of sweetness."
+Moroccan Braised Chicken,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_107b819a-5beb-4339-9503-59d7f4f30e5e_download%20(2).jpg,"Flavorful chicken slow-cooked with Moroccan spices, providing a rich, aromatic entrée with bold flavors."
+Roasted Red Potatoes,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_fb30c15e-12e9-4d36-b36b-4d61afeb3c57_Roasted%20Red%20Potatoes.jpg,"Crispy roasted red potatoes seasoned with herbs, delivering a classic, comforting side dish perfect for any meal."
+Seasoned Black Beans,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_eb3f1b8f-a032-4342-a84c-a0bf7b101eb6_Mexican-Black-Beans-1.jpg,"Savory black beans seasoned with spices, making a protein-rich side or filling for burritos and tacos."
+Jicama Slaw,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_2a370881-f900-4cd1-9757-cdd36a309fe8_download%20(7).jpg,"Crunchy jicama slaw tossed in a tangy dressing, offering a refreshing, light salad option with a crunch."
+Roasted Turkey,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_2f8fae29-5239-4565-a578-0c6a6fea7901_images%20(2).jpg,"Juicy roasted turkey served with a savory gravy, providing a classic main dish for any festive meal."
+Zucchini and Squash Batons,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_b7778f95-693f-4f9d-a0d4-894d5dd27abc_wholesomeyum-How-To-Roast-Zucchini-Oven-Roasted-Zucchini-Recipe-1.jpg,"Grilled zucchini and squash batons seasoned and cooked to perfection, offering a healthy vegetable side."
+German Potato Salad,Knollcrest,0,0,1,Dinner,1,1,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_57e6304e-a5a4-45f1-84c9-8ee0363c4a29_download%20(2).jpg,"Warm potato salad made with a tangy vinegar dressing, offering a deliciously different side to traditional potato salads."
+Plant Based Buttered Corn,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_b17fa55c-85a5-403a-86b1-4af44878d1c1_buttered-corn-3.jpg,"Sweet corn sautéed with plant-based butter, delivering a comforting, buttery side that's perfect for any meal."
+Lentil Pasta Salad,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_2e90bfba-865d-4eed-a182-27ac40847e09_Gluten-Free-Italain-Pasta-Salad-2.jpg,"Pasta salad made with lentils and fresh vegetables, providing a nutritious, hearty option perfect for lunch."
+Herb Roasted Chicken,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_fb61e41d-3950-444e-b93e-28404f3279de_fgae.jpg,Tender roasted chicken seasoned with herbs for a flavorful and juicy main dish that's always a crowd-pleaser.
+Brussel Sprout Slaw,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_eb1ccaaa-2461-441c-bdfa-e251be41d5a7_download.jpg,"Shredded Brussels sprouts tossed in a tangy dressing, offering a crunchy, refreshing salad with a unique twist."
+Roasted Fingerling Potatoes,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_b536437e-56a3-4e1b-8a1b-f8a867687c67_1383163575741.jpeg,"Crispy fingerling potatoes roasted with herbs, providing a deliciously unique side with a rustic flair."
+Island Shredded Pork,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_d3cda631-ed5b-4232-9fb5-a6a9a564ebe2_BBQ-Pulled-Pork-8.jpg,"Tender pulled pork seasoned with island spices, delivering a flavorful, tropical option perfect for tacos or sandwiches."
+Carribean Rice,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_6428ee12-320a-46c0-8b7c-08808abf44b1_download%20(3).jpg,"Flavorful rice cooked with spices and coconut, providing a tropical base that pairs perfectly with a variety of dishes."
+Roasted Corn and Black Beans,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_2e72b637-22da-4e4b-b380-a4b32d4d6f9f_1661157.jpg,"A vibrant mix of roasted corn and black beans, offering a hearty, nutritious side that's great in salads."
+Carribean Vegetable Blend,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_b2ea9564-4584-4389-be33-d9ce2ef85862_15132926795a33038798f6d.jpg,"A colorful mix of Caribbean-inspired vegetables, seasoned and sautéed to bring a taste of the islands to your plate."
+Beet Salad with a Mustard Vinaigrette,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_ca583d0a-f8c7-476d-86d3-51c8e906bc81_df.jpg,"Roasted beets tossed in a tangy mustard vinaigrette, providing a fresh, vibrant salad option."
+Zone Tandoori Chicken,Knollcrest,0,0,1,Dinner,0,0,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_928e3273-8db3-4eb9-ad33-142982042277_tandoori-chicken-11.jpg,"Chicken marinated in tandoori spices and grilled to perfection, offering bold flavors and a smoky finish."
+Lemon Carrot Salad,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_ae9bd893-889c-4afb-9546-a31443be5863_carrotsalad-articleLarge.jpg,"Fresh carrots tossed in a lemon dressing, creating a bright, zesty salad with a crunchy texture."
+Roasted Brussel Sprouts,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_7215a995-88a4-48e0-bc90-5023bfffdcde_Roasted-Brussels-Sprouts-square.jpg,"Tender Brussels sprouts roasted until crispy, providing a flavorful, healthy side that's hard to resist."
+Three Little Pigs Pizza,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_a0c5f99f-89f8-486c-9d96-5842b8ba038e_all-meat-pizza-pepperoni.jpg,"A meat-lover's pizza topped with bacon, ham, and pepperoni, delivering a hearty, savory flavor in every bite."
+Hawaiian Pizza,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_cf61f64e-f84c-4766-bbd3-d18821aca568_360_F_27579766_mELdKLFlxMoxK0ELefv38lbLWbghNnc0.jpg,"A sweet and savory pizza topped with ham and pineapple, offering a tropical twist on a classic favorite."
+Sausage Banana Pepper Pizza,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_8b4b81db-9a9a-4dda-af5f-71dd14a5a12f_ae1e365420b44f0098c62878c5e4bc5f.jpg,"Zesty sausage paired with banana peppers on a cheesy pizza crust, providing a flavorful, satisfying slice."
+Pesto Alfredo,Knollcrest,0,0,1,Dinner,0,1,0,https://csmtliveapi.culinarysuite.com/Uploads/Others_a9ba4b6a-87b6-459a-80a3-aa2a8540cddf_Screenshot%202024-05-14%20105735.png,"Creamy fettuccine pasta tossed in a rich pesto Alfredo sauce, delivering a decadent, herbaceous flavor profile."
+Beef Bolognese,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_31e46b46-ba3e-43ff-91d1-2e95dccc8140_Bolognese-5.jpg,"Hearty spaghetti topped with a rich beef Bolognese sauce, creating a comforting and filling classic Italian dish."
+Margherita Pizza,Knollcrest,0,0,1,Dinner,0,1,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_81ad66c3-b85f-4c68-86cb-daa4faff1515_homemade-margherita-pizza-768x1155.jpg,"Classic Margherita pizza topped with fresh mozzarella, basil, and tomatoes, providing a simple yet delicious flavor combination."
+Taqueria Pinto Beans,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_f942982b-d30b-45b6-bd0f-787918cadd4a_Instant-Pot-pinto-beans-11.jpg,"Flavorful pinto beans seasoned to perfection, offering a protein-rich side ideal for tacos and burritos."
+Santa Fe Corn,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_f793f40c-5b53-4892-a8e6-142ef9bfecfb_Pan_Grilled_Corn_Salsa_Healthy_Easy_Vegan_FromMyBowl-13.jpg,"Sweet corn mixed with spices and herbs, creating a vibrant and flavorful side that pairs well with any entrée."
+Taqueria Salsa Verde,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_e36439f0-261a-4917-97e4-95179e8b70bd_salsa-verde-8.jpg,"Fresh salsa verde made from tomatillos, providing a tangy, zesty dip perfect for tortilla chips or tacos."
+Taqueria Guacamole,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_ca990546-f407-4f88-84ba-39fbf0a830e3_Guacamole-Square-500x375.jpg,"Creamy avocado guacamole blended with lime and spices, making a delicious dip that enhances any meal."
+Taqueria Salsa Roja,Knollcrest,0,0,1,Dinner,1,1,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_e45dd3de-c900-46e7-877c-3213cf97aba3_roja.jpg,"Spicy salsa roja made with tomatoes and chili peppers, delivering a bold flavor perfect for dipping or topping."
+Taqueria Black Bean Corn Salsa,Knollcrest,0,0,1,Dinner,1,1,0,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_f2c184c4-8845-4734-87f7-1b7435388950_Cowboy-Caviar-1.jpg,"A refreshing salsa combining black beans and corn, offering a colorful and tasty accompaniment to any dish."
+Pico De Gallo,Knollcrest,0,0,1,Dinner,1,1,1,https://csmtliveapi.culinarysuite.com/Uploads/RecipeUpload_62b490ea-90ba-47fb-bae6-4ea2782321d9_Pico-de-Gallo-Recipe-2.jpg,"Fresh pico de gallo made from chopped tomatoes, onions, and cilantro, providing a zesty and bright topping for tacos."
+Grasshopper Brownies,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/Others_40480cd2-9984-4e6e-9ca1-88bb2e559044_grasshopper-brownies11.jpg,"Rich chocolate brownies infused with mint flavor, delivering a deliciously sweet treat with a refreshing twist."
+Tiramisu Parfait,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/Others_4609aa55-da71-462e-8bbd-107ee8739ff5_Tiramisu-Parfaits_exps25958_LT10593A05_05_3b_RMS.jpg,Layers of coffee-soaked cake and mascarpone cream create a delightful tiramisu parfait for dessert lovers.
+Red Velvet Whoopie with Cream Cheese Frosting,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/Others_7d23718a-4e02-40de-a475-d2b601ba28f3_Red%20Velvet%20Whoopie%20Pie.jpg,"Soft red velvet cookies filled with sweet cream cheese frosting, offering a delightful dessert experience."
+Banana Creme de la Creme Pie,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/Others_fc26aa1d-9f88-4e06-8298-3430d2bd9427_Screenshot%202023-12-14%20090648.png,"Creamy banana pie topped with whipped cream, providing a sweet, indulgent dessert perfect for any occasion."
+Cannoli,Knollcrest,0,0,1,Dinner,0,0,0,https://www.piesandtacos.com/wp-content/uploads/2017/10/Cannoli-22.jpg,"Crispy pastry shells filled with sweet ricotta cheese and chocolate chips, delivering a classic Italian dessert experience."
+Berries and Cream Angel Food Cake,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/Others_2ff9d5bc-62bb-4e0f-8ac1-c787a80500b0_Angel-Food-Cake-with-Berries.V2.jpg,"Light and fluffy angel food cake topped with fresh berries and whipped cream, offering a refreshing dessert."
+Trix Cereal Bars,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/Others_77d36af8-8e36-41ba-aec7-183bdb1ec36c_Trix%20bar.jpg,"Fruity Trix cereal bars that are sweet and chewy, making for a fun and nostalgic treat for any age."
+Cookies and Cream Creme de la Creme Pie,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/Others_33cf755f-998a-4994-a68b-55daf75d97a1_Screenshot%202023-12-14%20082022.png,"Creamy pie with a cookies and cream filling, offering a deliciously sweet dessert option."
+Tres Leches Cake,Knollcrest,0,0,1,Dinner,0,0,0,https://csmtliveapi.culinarysuite.com/Uploads/Others_a962186c-1136-4ba8-9a0b-1ebd5fcb594e_Tres-Leches-Cake-Recipe-6.jpg,"Moist sponge cake soaked in three types of milk, providing a rich and decadent dessert that's hard to resist."
+Vegetarian Chili,Knollcrest,0,0,1,Dinner,0,0,0,https://cookieandkate.com/images/2015/11/best-vegetarian-chili-1-1.jpg,"Hearty chili made with beans and vegetables, offering a warm, comforting dish that's perfect for any time of year."
+Cheesy Broccoli Soup,Knollcrest,0,0,1,Dinner,0,0,0,https://tastesbetterfromscratch.com/wp-content/uploads/2019/08/Broccoli-Cheese-Soup-10-1.jpg,"Creamy soup filled with tender broccoli and melted cheese, delivering a comforting dish perfect for chilly days."
+Chicken and Dumpling Soup,Knollcrest,0,0,1,Dinner,0,0,0,https://www.thereciperebel.com/wp-content/uploads/2023/08/chicken-dumpling-soup-TRR-27-of-44.jpg,"Classic soup featuring tender chicken and fluffy dumplings in a savory broth, perfect for a cozy meal."
+California Medley Soup,Knollcrest,0,0,1,Dinner,0,0,0,https://thecookingjar.com/wp-content/uploads/2015/01/cheese-veggie-chowder-1.jpg,"A hearty soup filled with fresh vegetables, creating a nourishing and flavorful dish packed with nutrients."
+Herb Tomato Bisque,Knollcrest,0,0,1,Dinner,0,0,0,https://storage.googleapis.com/leye_bucket/wp-content/uploads/65bcfa79-coastal-soups_herbed-tomato-bisque_dscf0794-1-2-400x267.jpg,"Creamy tomato bisque infused with herbs, offering a rich and flavorful soup that's perfect as an appetizer."
+Chicken Noodle Soup,Knollcrest,0,0,1,Dinner,0,0,0,https://tastesbetterfromscratch.com/wp-content/uploads/2017/10/Chicken-Noodle-Soup-2.jpg,"Comforting chicken noodle soup with tender chicken, vegetables, and egg noodles in a savory broth, perfect for any day."
+Smokey Poblano & Cheese Soup,Knollcrest,0,0,1,Dinner,0,0,0,https://www.biscuitsandburlap.com/wp-content/uploads/2019/09/cheesy-poblano-pepper-soup-4.jpg,"A creamy soup with roasted poblano peppers and melted cheese, delivering a smoky flavor that's truly comforting."
+Chicken Tortilla Soup,Knollcrest,0,0,1,Dinner,0,0,0,https://thecozycook.com/wp-content/uploads/2019/04/Creamy-Chicken-Tortilla-Soup-f.jpg,"Spicy chicken soup topped with tortilla strips, avocado, and cheese, creating a hearty and flavorful dish."
+Corn Chowder,Knollcrest,0,0,1,Dinner,0,0,0,https://thevegconnection.com/wp-content/uploads/2023/03/Corn-Chowder-8-Edit-2-720x720.jpg,"Creamy corn chowder filled with sweet corn and potatoes, offering a comforting bowl perfect for chilly weather."
+Cactus and Bean Chili,Knollcrest,0,0,1,Dinner,0,0,0,https://res.cloudinary.com/dufs8mjql/image/upload/w_960/v1/sandridge_products/t0rjcv5nstieylutqtp6,"Unique chili featuring cactus and beans, creating a hearty dish with a southwestern flair."
+Stuffed Pepper Soup,Knollcrest,0,0,1,Dinner,0,0,0,https://thecozycook.com/wp-content/uploads/2022/01/Stuffed-Pepper-Soup-f6.jpg,"A flavorful soup that captures the essence of stuffed peppers, with rice, meat, and spices in a savory broth."
+French Onion Soup,Knollcrest,0,0,1,Dinner,0,0,0,https://www.recipetineats.com/tachyon/2018/11/French-Onion-Soup_1.jpg,"Classic French onion soup topped with melted cheese and croutons, providing a rich, flavorful appetizer."
+Potato Chophouse Soup,Knollcrest,0,0,1,Dinner,0,0,0,https://sugarspunrun.com/wp-content/uploads/2018/01/potato-soup-recipe-1-of-1.jpg,"Hearty potato soup filled with creamy goodness and chunks of potato, perfect for a filling, comforting dish."
+Garden Vegetable Soup,Knollcrest,0,0,1,Dinner,0,0,0,https://www.healthyseasonalrecipes.com/wp-content/uploads/2023/01/garden-vegetable-soup-sq2-088.jpg,"A fresh soup filled with seasonal vegetables, delivering a light, nourishing option packed with flavor."
+Club Rolls,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://www.kroger.com/product/images/large/front/0007203695712?banner=harristeeter,Club Rolls - served at UpperCrust
+White Bread,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://kitchen335co.com/wp-content/uploads/2023/06/white-bread-recipe-thumbnail.jpg,White Bread - served at UpperCrust
+Sourdough Bread,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://www.theperfectloaf.com/wp-content/uploads/2015/12/theperfectloaf-mybestsourdoughrecipe-title-1.jpg,Sourdough Bread - served at UpperCrust
+Multigrain Sourdough Bread,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://hostessatheart.com/wp-content/uploads/2019/10/Multi-Grain-Wheat-Bread-4-Blog-Post-680x850-500x500.png,Multigrain Sourdough Bread - served at UpperCrust
+Cheese & Jalapeño Bread,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://littlespoonfarm.com/wp-content/uploads/2020/09/jalapeno-cheddar-sourdough-bread-2.jpg,Cheese & Jalapeño Bread - served at UpperCrust
+Sundried Tomato Basil Flour Torillas,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://www.missionfoods.com/wp-content/uploads/2022/07/product-mission-sun-dried-tomato-wrap-front-959x1024.png,Sundried Tomato Basil Flour Torillas - served at UpperCrust
+Wheat Bread,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://kristineskitchenblog.com/wp-content/uploads/2014/08/whole-wheat-bread-1200-square-2678.jpg,Wheat Bread - served at UpperCrust
+Pretzel Bread Buns,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://www.thisjess.com/wp-content/uploads/2024/04/Sourdough-Discard-Pretzel-Buns-Cropped.jpg,Pretzel Bread Buns - served at UpperCrust
+Spinach Tortilllas,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://missionfoods.com/wp-content/uploads/2022/07/front-garden-spinach-herb-wraps-front.png,Spinach Tortilla - served at UpperCrust
+Flour Tortilla,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://www.missionfoods.com/wp-content/uploads/2022/07/product-soft-taco-flour-tortillas-front.png,Flour Tortilla - served at UpperCrust
+Gluten Free Tortilla,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://www.missionfoods.com/wp-content/uploads/2022/07/product-gluten-free-original-front.png,Gluten Free Tortilla - served at UpperCrust
+Ham,UpperCrust,0,1,1,Lunch & Dinner,0,0,0,https://gmfservice.com/cdn/shop/products/deli-ham-green-mountain-food-service-marketplace_39047d7d-3f71-4fda-bc3d-4731e11c2b8d_large.jpg?v=1509458056,Ham - served at UpperCrust
+Turkey,UpperCrust,0,1,1,Lunch & Dinner,0,0,1,https://www.stillmanqualitymeats.com/cdn/shop/products/Deliturkey1.jpg?v=1643909482,Turkey - served at UpperCrust
+Roast Beef,UpperCrust,0,1,1,Lunch & Dinner,0,0,1,https://www.sipandfeast.com/wp-content/uploads/2024/09/deli-roast-beef-recipe-snippet-2.jpg,Roast Beef - served at UpperCrust
+Salami,UpperCrust,0,1,1,Lunch & Dinner,0,0,0,https://timberfeast.com/cdn/shop/products/Depositphotos_237060236_s-2019_1000x.jpg?v=1633275753,Salami - served at UpperCrust
+Buffalo Chicken,UpperCrust,0,1,1,Lunch & Dinner,0,0,1,https://assets.shop.loblaws.ca/products/21591690/b1/en/side/21591690_side_a01_@2.png,Buffalo Chicken - served at UpperCrust
+Pepperoni,UpperCrust,0,1,1,Lunch & Dinner,0,0,1,https://www.halalworlddepot.com/cdn/shop/files/halal-sliced-beef-pepperoni-delicious-for-pizzas-877763.jpg?v=1714399072&width=500,Pepperoni - served at UpperCrust
+Bacon,UpperCrust,0,1,1,Lunch & Dinner,0,0,0,https://www.africanbites.com/wp-content/uploads/2019/03/IMG_3283.jpg,Bacon - served at UpperCrust
+Capicola,UpperCrust,0,1,1,Lunch & Dinner,0,0,0,https://butchershoppedirect.com/cdn/shop/products/the-butcher-shoppe-pork-capicola-hot-sliced-28491147706451.jpg?v=1633955190,Capicola - served at UpperCrust
+American Cheese,UpperCrust,0,1,1,Lunch & Dinner,0,1,1,https://cdn.yelloh.com/media/images/products/62172-1-1540.jpg,American Cheese - served at UpperCrust
+Provolone Cheese,UpperCrust,0,1,1,Lunch & Dinner,0,1,1,https://images.albertsons-media.com/is/image/ABS/970056932?$ng-ecom-pdp-desktop$&defaultImage=Not_Available,Provolone Cheese - served at UpperCrust
+Swiss Cheese,UpperCrust,0,1,1,Lunch & Dinner,0,1,1,https://dfwblobstorage.blob.core.windows.net/ewcmediacontainer/eatwisconsincheese/media/content/cheesemasters-2019/swiss-cheese-header_2.jpg,Swiss Cheese - served at UpperCrust
+Cheddar Cheese,UpperCrust,0,1,1,Lunch & Dinner,0,1,1,https://media.istockphoto.com/id/513274009/photo/sliced-cheese.jpg?s=612x612&w=0&k=20&c=elXkrNBi5AdFJOst6Q04vYL-pQPn5smrxH5kWiSt-hg=,Cheddar Cheese - served at UpperCrust
+Pepper Jack Cheese,UpperCrust,0,1,1,Lunch & Dinner,0,1,1,https://drryor7280ntb.cloudfront.net/media/catalog/product/3/0/30046100328331_1_4ukefwphgjskangg.jpg?width=96&height=96&quality=85&fit=bounds,Pepper Jack Cheese - served at UpperCrust
+Mozzarella Cheese,UpperCrust,0,1,1,Lunch & Dinner,0,1,1,https://www.gordonrestaurantmarket.com/wp-content/uploads/2024/08/726567-RAW-6-1722868376.jpg,Mozzarella Cheese - served at UpperCrust
+Gouda Cheese,UpperCrust,0,1,1,Lunch & Dinner,0,1,1,https://medias.treew.com/imgproducts/middle/48828.jpg,Gouda Cheese - served at UpperCrust
+Muenster Cheese,UpperCrust,0,1,1,Lunch & Dinner,0,1,1,https://cdn.gardengrocer.com/attachments/photos/high_res/3327.jpg?5776,Muenster Cheese - served at UpperCrust
+Colby Jack Cheese,UpperCrust,0,1,1,Lunch & Dinner,0,1,1,https://cdn11.bigcommerce.com/s-rl94rv7pw2/images/stencil/1280x1280/products/2344/1917/thumbnail__85655.1710181169.jpg?c=1,Colby Jack Cheese - served at UpperCrust
+Tuna Salad,UpperCrust,0,1,1,Lunch & Dinner,0,0,1,https://bestrecipebox.com/images/Tuna-Salad-Recipe-1.jpg,Tuna Salad Spread - served at UpperCrust
+Chicken Salad,UpperCrust,0,1,1,Lunch & Dinner,0,0,1,https://www.spendwithpennies.com/wp-content/uploads/2019/08/1200-Chicken-Salad-Sandwich-SpendWithPennies-3.jpeg,Chicken Salad Spread - served at UpperCrust
+Shreaded Lettuce,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://cdn11.bigcommerce.com/s-rl94rv7pw2/images/stencil/1280x1280/products/1024/1578/thumbnail__74734.1724871437.jpg?c=1,Lettuce - served at UpperCrust
+Spinach,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://www.taylorfarms.com/wp-content/uploads/2023/10/Spinach.jpg,Spinach - served at UpperCrust
+Hot Pepper Relish,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://www.chilipeppermadness.com/wp-content/uploads/2021/04/Hot-Pepper-Relish-Recipe-SQ.jpg,Hot Pepper Relish - served at UpperCrust
+Red Onions,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://toriavey.com/images/2013/05/All-About-Onions-10.jpg,Red Onions - served at UpperCrust
+Sliced Pickle,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://drryor7280ntb.cloudfront.net/media/catalog/product/0/0/00000446240800_2.jpg?width=96&height=96&quality=85&fit=bounds,Sliced Pickle - served at UpperCrust
+Sliced Cucumber,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://healthyfamilyproject.com/wp-content/uploads/2020/05/Cucumbers-background.jpg,Sliced Cucumber - served at UpperCrust
+Sliced Tomato,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://cdn.mos.cms.futurecdn.net/5Zj8KDV8J6m5B79fAFBaGe-1200-80.jpg,Sliced Tomato - served at UpperCrust
+Avocado Spread,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://www.noracooks.com/wp-content/uploads/2023/08/avocado-spread-5.jpg,Avocado Spread - served at UpperCrust
+Carrots,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://cdn.loveandlemons.com/wp-content/uploads/2021/03/julienne-carrots-500x500.jpg,Carrots - served at UpperCrust
+Olive,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://bulkmart.ca/cdn/shop/products/vesuvio-sliced-black-olives-284-l-711401_600x600.jpg?v=1611514669,Olive. Just one olive. 
+Hummus Spread,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://tastythriftytimely.com/wp-content/uploads/2023/01/5-Minute-Creamy-Hummus-Featured.jpg,Hummus Spread - served at UpperCrust
+Mayo,UpperCrust,0,1,1,Lunch & Dinner,0,1,1,https://assets.epicurious.com/photos/54af36c54074bdfd068367c1/master/pass/51183000_blender-mayonnaise_1x1.jpg,Mayonnaise - served at UpperCrust
+Mustard,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://leitesculinaria.com/wp-content/uploads/2024/05/homemade-yellow-mustard-2.jpg,Mustard - served at UpperCrust
+Ketchup,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Tangy-Tomato-Dip-1:1-3-product-tile-desktop?wid=829&hei=515&dpr=off,Ketchup - served at UpperCrust
+Balsamic Vinegar,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://www.recipetineats.com/tachyon/2016/12/Balsamic-Dressing-1.jpg,Balsamic Vinegar - served at UpperCrust
+Pesto Mayo,UpperCrust,0,1,1,Lunch & Dinner,0,1,1,https://petersfoodadventures.com/wp-content/uploads/2019/07/pesto-mayo.jpg,Pesto Mayo - served at UpperCrust
+Spicy Mayo,UpperCrust,0,1,1,Lunch & Dinner,0,1,1,https://cdn.loveandlemons.com/wp-content/uploads/2023/01/spicy-mayo.jpg,Spicy Mayo - served at UpperCrust
+Ranch,UpperCrust,0,1,1,Lunch & Dinner,0,1,1,https://iambaker.net/wp-content/uploads/2019/02/861A3538.ranch-dressing.jpg,Ranch - served at UpperCrust
+Honey Mustard,UpperCrust,0,1,1,Lunch & Dinner,0,1,1,https://pinchofyum.com/wp-content/uploads/Honey-Mustard-Sauce-in-bowl-Recipe.jpg,Honey Mustard - served at UpperCrust
+Garlic Parmesan,UpperCrust,0,1,1,Lunch & Dinner,0,1,1,https://cdn.apartmenttherapy.info/image/upload/v1648644045/k/Photo/Recipe%20Ramp%20Up/2022-03-Garlic-Parmesan-Sauce/IMG_7429.jpg,Garlic Parmesan - served at UpperCrust
+Italian Dressing,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://cdn.loveandlemons.com/wp-content/uploads/2020/08/italian-dressing.jpg,Italian Dressing - served at UpperCrust
+BBQ Sauce,UpperCrust,0,1,1,Lunch & Dinner,0,1,1,https://www.lecremedelacrumb.com/wp-content/uploads/2021/06/bbq-sauce-5sm-3.jpg,BBQ Sauce - served at UpperCrust
+Olive Oil,UpperCrust,0,1,1,Lunch & Dinner,0,1,1,https://www.womansworld.com/wp-content/uploads/2021/02/oil.jpg?quality=86&strip=all,Olive Oil - served at UpperCrust
+Balsamic Vinaigrette,UpperCrust,0,1,1,Lunch & Dinner,1,1,1,https://images.squarespace-cdn.com/content/v1/5113fcede4b099bd04eebc8d/5ceb0fdf-8178-40a0-b89a-23df7c7f15ab/balsamic-vinaigrette5.jpg,Balsamic Vinaigrette - served at UpperCrust

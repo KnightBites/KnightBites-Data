@@ -4,16 +4,25 @@
 -- @author lvym5 (Lily McAboy)
 -- @version October, 2024
 
+
+/*
 DROP TABLE IF EXISTS diningFood;
-DROP TABLE IF EXISTS 
+DROP TABLE IF EXISTS userprofiles;
+DROP TABLE IF EXISTS diningfoodratings;
+*/
+
 
 CREATE TABLE diningfood (
 	FoodName varchar(50) PRIMARY KEY,
 	DiningHall varchar(50),
+	Breakfast boolean,
+	Lunch boolean,
+	Dinner boolean,
 	MealTime varchar(50),
-	Vegan integer,
-	Vegetarian integer,
-	Halal integer
+	Vegan boolean,
+	Vegetarian boolean,
+	Halal boolean,
+	Description varchar(250)
 	);
 
 CREATE TABLE userprofiles (
