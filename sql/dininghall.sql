@@ -27,7 +27,7 @@ CREATE TABLE diningfood (
 	Vegan boolean,
 	Vegetarian boolean,
 	Halal boolean,
-	Description varchar(250),
+	Description varchar(500),
 	overallRating float(24)
 	);
 
