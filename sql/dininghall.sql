@@ -52,6 +52,11 @@ CREATE TABLE diningfoodratings(
 	date timestamp
 	);
 
+CREATE TABLE uppercrustdetail (
+	ingredient varchar(50),
+	category varchar(50)
+);
+
 GRANT SELECT ON diningfood TO PUBLIC;
 GRANT SELECT ON userprofiles TO PUBLIC;
 GRANT SELECT ON diningfoodratings TO PUBLIC;
