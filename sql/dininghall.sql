@@ -27,6 +27,7 @@ CREATE TABLE diningfood (
 	Vegan boolean,
 	Vegetarian boolean,
 	Halal boolean,
+	Image varchar(500),
 	Description varchar(500),
 	overallRating float(24)
 	);
@@ -56,6 +57,20 @@ CREATE TABLE uppercrustdetail (
 	ingredient varchar(50),
 	category varchar(50)
 );
+
+CREATE TABLE prayers (
+	prayerTitle varchar(250)
+	prayer varchar(500)
+);
+
+CREATE TABLE uppercrustcreations (
+	creator varchar(250),
+	sandwichName varchar(250)
+	comment varchar(250),
+	grilled boolean,
+	date timestamp,
+
+)
 
 GRANT SELECT ON diningfood TO PUBLIC;
 GRANT SELECT ON userprofiles TO PUBLIC;

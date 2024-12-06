@@ -18,9 +18,9 @@ cursor.execute("DELETE FROM diningfood") #Clear existing to reautomate
 
 for index, row in diningData.iterrows():
     cursor.execute("""
-        INSERT INTO diningfood(FoodName, DiningHall, Breakfast, Lunch, Dinner, MealTime, Vegan, Vegetarian, Halal, Description)
-        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
-    """, (row['FoodName'], row['DiningHall'], row['Breakfast'], row['Lunch'], row['Dinner'], row['Mealtime'], row['Vegan'], row['Vegetarian'], row['Halal'], row['Description']))
+        INSERT INTO diningfood(FoodName, DiningHall, Breakfast, Lunch, Dinner, MealTime, Vegan, Vegetarian, Halal, Image, Description)
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+    """, (row['FoodName'], row['DiningHall'], row['Breakfast'], row['Lunch'], row['Dinner'], row['Mealtime'], row['Vegan'], row['Vegetarian'], row['Halal'], row['Image'], row['Description']))
 
 conn.commit()
 cursor.close()
