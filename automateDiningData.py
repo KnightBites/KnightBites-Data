@@ -1,7 +1,7 @@
 import pandas as pd
 import psycopg2
 
-diningData = pd.read_csv("DiningHall.csv").drop_duplicates(subset=['FoodName'])
+diningData = pd.read_csv("UpperCrustFix.csv").drop_duplicates(subset=['FoodName'])
 bool_columns = ['Breakfast', 'Lunch', 'Dinner', 'Vegan', 'Vegetarian', 'Halal']
 diningData[bool_columns] = diningData[bool_columns].astype(bool) #change 0s and 1s to Boolean type
 
