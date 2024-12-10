@@ -63,14 +63,79 @@ CREATE TABLE prayers (
 	prayer varchar(500)
 );
 
+'''
 CREATE TABLE uppercrustcreations (
 	creator varchar(250),
-	sandwichName varchar(250)
+	sandwichName varchar(250),
 	comment varchar(250),
 	grilled boolean,
 	date timestamp,
+	"Club Rolls" boolean,
+	"White Bread" boolean,
+	"Sourdough Bread" boolean,
+	"Multigrain Sourdough Bread" boolean,
+	"Cheese & Jalapeño Bread" boolean,
+	"Tomato Basil Tortilla" boolean,
+	"Wheat Bread" boolean,
+	"Pretzel Bread Buns" boolean,
+	"Spinach Tortilla" boolean,
+	"Flour Tortilla" boolean,
+	"Gluten Free Tortilla" boolean,
+	"Ham" boolean,
+	"Turkey" boolean,
+	"Roast Beef" boolean,
+	"Salami" boolean,
+	"Buffalo Chicken" boolean,
+	"Pepperoni" boolean,
+	"Bacon" boolean,
+	"Capicola" boolean,
+	"American Cheese" boolean,
+	"Provolone Cheese" boolean,
+	"Swiss Cheese" boolean,
+	"Cheddar Cheese" boolean,
+	"Pepper Jack Cheese" boolean,
+	"Mozzarella Cheese" boolean,
+	"Gouda Cheese" boolean,
+	"Muenster Cheese" boolean,
+	"Colby Jack Cheese" boolean,
+	"Tuna Salad" boolean,
+	"Chicken Salad" boolean,
+	"Shredded Lettuce" boolean,
+	"Spinach" boolean,
+	"Hot Pepper Relish" boolean,
+	"Red Onions" boolean,
+	"Sliced Pickle" boolean,
+	"Sliced Cucumber" boolean,
+	"Sliced Tomato" boolean,
+	"Avocado Spread" boolean,
+	"Carrots" boolean,
+	"Olive" boolean,
+	"Hummus Spread" boolean,
+	"Mayo" boolean,
+	"Mustard" boolean,
+	"Ketchup" boolean,
+	"Balsamic Vinegar" boolean,
+	"Pesto Mayo"boolean,
+	"Spicy Mayo" boolean,
+	"Ranch" boolean,
+	"Honey Mustard" boolean,
+	"Garlic Parmesan" boolean,
+	"Italian Dressing" boolean,
+	"BBQ Sauce" boolean,
+	"Olive Oil" boolean,
+	"Balsamic Vinaigrette" boolean
 
-)
+);
+'''
+
+CREATE TABLE uppercrustcreations (
+	creator varchar(250),
+	sandwichName varchar(250),
+	comment varchar(250),
+	date timestamp,
+	sammy JSON
+);
+
 
 GRANT SELECT ON diningfood TO PUBLIC;
 GRANT SELECT ON userprofiles TO PUBLIC;
