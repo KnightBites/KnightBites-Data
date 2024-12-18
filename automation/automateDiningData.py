@@ -14,7 +14,7 @@ conn = psycopg2.connect(
 )
 cursor = conn.cursor()
 
-cursor.execute("DELETE FROM diningfood") #Clear existing to reautomate
+#cursor.execute("DELETE FROM diningfood") #Clear existing to reautomate
 
 for index, row in diningData.iterrows():
     cursor.execute("""
