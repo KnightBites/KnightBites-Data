@@ -1,18 +1,23 @@
 import pandas as pd
 import psycopg2
+from dotenv import load_dotenv
+from os import getenv
 
 diningData = pd.read_csv("UpperCrustFix.csv").drop_duplicates(subset=['FoodName'])
 bool_columns = ['Breakfast', 'Lunch', 'Dinner', 'Vegan', 'Vegetarian', 'Halal']
 diningData[bool_columns] = diningData[bool_columns].astype(bool) #change 0s and 1s to Boolean type
 
+load_dotenv()
 conn = psycopg2.connect(
-    host="knightbites-db.postgres.database.azure.com",
-    database="knightbitesdb",
-    user="knightbitesadmin",
-    password="BranchOften42!",
+    host=getenv("host"),
+    database=getenv("database"),
+    user=getenv("user"),
+    password=getenv("password"),
     sslmode="require"
 )
 cursor = conn.cursor()
+
+exit()
 
 #cursor.execute("DELETE FROM diningfood") #Clear existing to reautomate
 
